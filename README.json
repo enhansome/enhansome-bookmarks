@@ -1,0 +1,4348 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON-server",
+          "description": "可以配合 LowDB 使用 快速搭建一个 REST API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T19:40:00Z",
+            "owner": "typicode",
+            "repo": "json-server",
+            "stars": 75699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lodash",
+          "description": "前端工具函数集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T19:48:01Z",
+            "owner": "lodash",
+            "repo": "lodash",
+            "stars": 61322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dayjs",
+          "description": "一个轻量级类 moment.js API 时间库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T11:46:54Z",
+            "owner": "iamkun",
+            "repo": "dayjs",
+            "stars": 48668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dayjs",
+          "description": "时间处理库，不过大部分情况下我还是用自己的封装的函数",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T11:46:54Z",
+            "owner": "iamkun",
+            "repo": "dayjs",
+            "stars": 48668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tabler",
+          "description": "基于 Bootstrap 4 的 Dashboard UI Kit 和美观 高颜值 ui 模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-13T09:57:32Z",
+            "owner": "tabler",
+            "repo": "tabler",
+            "stars": 41446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lerna",
+          "description": "大项目版本控制工具，项目中可以有多个 package.json 文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:13:32Z",
+            "owner": "lerna",
+            "repo": "lerna",
+            "stars": 36054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uppy",
+          "description": "一个很好看的也很好用的 前端上传库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T08:45:42Z",
+            "owner": "transloadit",
+            "repo": "uppy",
+            "stars": 30919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fingerprintjs",
+          "description": "是一个快速的浏览器指纹库，通浏览环境的一系列配置生成 id",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T21:31:31Z",
+            "owner": "fingerprintjs",
+            "repo": "fingerprintjs",
+            "stars": 28253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoid",
+          "description": "前端轻量 unique string ID 生成库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T20:13:57Z",
+            "owner": "ai",
+            "repo": "nanoid",
+            "stars": 26928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photoswipe",
+          "description": "图片预览组件，支持移动端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T07:31:46Z",
+            "owner": "dimsemenov",
+            "repo": "PhotoSwipe",
+            "stars": 25238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hammer",
+          "description": "移动端手势库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-04T10:52:57Z",
+            "owner": "hammerjs",
+            "repo": "hammer.js",
+            "stars": 24342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxdb",
+          "description": "一款开源的快速、灵活的客户端数据库，支持各种浏览器以及 NodeJS，Electron、React 等等，是 PouthDB 之上的一个封装库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:12:38Z",
+            "owner": "pubkey",
+            "repo": "rxdb",
+            "stars": 23334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VuePress",
+          "description": "本网站就是基于它实现的，简单方便的静态网站生成器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T10:06:47Z",
+            "owner": "vuejs",
+            "repo": "vuepress",
+            "stars": 22745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lowdb",
+          "description": "LowDB 是一个本地 JSON 数据库，基于 Lodash 开发的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T22:36:45Z",
+            "owner": "typicode",
+            "repo": "lowdb",
+            "stars": 22572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FileSaver.js",
+          "description": "文件下载插件 很多时候下载会有兼容性问题，它能帮你解决这些问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T13:55:08Z",
+            "owner": "eligrey",
+            "repo": "FileSaver.js",
+            "stars": 21989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuse.js",
+          "description": "轻量级前端模糊查询库 非常的好用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T04:40:41Z",
+            "owner": "krisk",
+            "repo": "Fuse",
+            "stars": 20442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rrweb",
+          "description": "一个可以记录你页面中所有操作的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T10:27:11Z",
+            "owner": "rrweb-io",
+            "repo": "rrweb",
+            "stars": 20035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sweetalert2",
+          "description": "一个自适应，且自定义性强的弹出框（零依赖）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T07:16:29Z",
+            "owner": "sweetalert2",
+            "repo": "sweetalert2",
+            "stars": 18101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.editor",
+          "description": "markdown 所见即所得编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-01T15:38:05Z",
+            "owner": "nhn",
+            "repo": "tui.editor",
+            "stars": 18011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleave.js",
+          "description": "用于在输入时格式化输入内容（信用卡格式、日期等）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-25T10:40:46Z",
+            "owner": "nosir",
+            "repo": "cleave.js",
+            "stars": 17865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOMPurify",
+          "description": "比 sanitize-html 更轻量，建议一般业务用这个",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:58:30Z",
+            "owner": "cure53",
+            "repo": "DOMPurify",
+            "stars": 17299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Programmers-Guide-to-English",
+          "description": "专为程序员编写的英语学习指南。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-28T07:48:04Z",
+            "owner": "yujiangshui",
+            "repo": "A-Programmers-Guide-to-English",
+            "stars": 16575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filepond",
+          "description": "一个小巧的文件上传库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T11:37:17Z",
+            "owner": "pqina",
+            "repo": "filepond",
+            "stars": 16390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-jsonschema-form",
+          "description": "Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:27:24Z",
+            "owner": "rjsf-team",
+            "repo": "react-jsonschema-form",
+            "stars": 15863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpu.js",
+          "description": "通过将 js 转为特定的 language，利用 GPU 来执行，大大提高了执行性能和速度",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T15:59:42Z",
+            "owner": "gpujs",
+            "repo": "gpu.js",
+            "stars": 15366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ajv",
+          "description": "一个 json schema 验证的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T07:38:47Z",
+            "owner": "ajv-validator",
+            "repo": "ajv",
+            "stars": 14803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flexsearch",
+          "description": "能让你更加高效和快速的检索文本内容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-28T18:05:03Z",
+            "owner": "nextapps-de",
+            "repo": "flexsearch",
+            "stars": 13772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "primjs",
+          "description": "让页面支持代码高亮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T15:55:31Z",
+            "owner": "PrismJS",
+            "repo": "prism",
+            "stars": 13036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tippy.js",
+          "description": "最著名的 tooltip/popover library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-27T19:00:23Z",
+            "owner": "atomiks",
+            "repo": "tippyjs",
+            "stars": 12259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitt",
+          "description": "轻量级 pub/sub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-14T08:58:20Z",
+            "owner": "developit",
+            "repo": "mitt",
+            "stars": 11900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReLaXed",
+          "description": "一个将 document html 转成 PDF 的工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-07T14:41:05Z",
+            "owner": "RelaxedJS",
+            "repo": "ReLaXed",
+            "stars": 11797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodeppt",
+          "description": "markdown 写 ppt",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-25T02:54:35Z",
+            "owner": "ksky521",
+            "repo": "nodeppt",
+            "stars": 10348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lunr.js",
+          "description": "是个用于浏览器的轻量级 JavaScript 全文搜索引擎,对于一些小型的博客、开发者文档或 Wiki 网站来说,完全可以通过它实现站内离线搜索",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-31T11:57:09Z",
+            "owner": "olivernn",
+            "repo": "lunr.js",
+            "stars": 9200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "text-mask",
+          "description": "可以让 input 按照规则输入(如电话,email,日期,信用卡等)，特殊格式 input",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-26T18:32:18Z",
+            "owner": "text-mask",
+            "repo": "text-mask",
+            "stars": 8217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chart.xkcd",
+          "description": "手绘风格的图表库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T03:53:41Z",
+            "owner": "timqian",
+            "repo": "chart.xkcd",
+            "stars": 7858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tui.image-editor",
+          "description": "一个功能齐全的在线图片编辑，基于 canvas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T10:48:41Z",
+            "owner": "nhn",
+            "repo": "tui.image-editor",
+            "stars": 7665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screenfull.js",
+          "description": "浏览器全屏插件 解决了不少兼容性问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-08T13:02:03Z",
+            "owner": "sindresorhus",
+            "repo": "screenfull",
+            "stars": 7140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bignumber.js",
+          "description": "同上",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T15:14:35Z",
+            "owner": "MikeMcl",
+            "repo": "bignumber.js",
+            "stars": 7008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dinero.js",
+          "description": "用来创建、计算和格式化货币价值的不可变的框架，支持国际化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:55:06Z",
+            "owner": "dinerojs",
+            "repo": "dinero.js",
+            "stars": 6786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chancejs",
+          "description": "生成随机数据的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-18T21:03:04Z",
+            "owner": "chancejs",
+            "repo": "chancejs",
+            "stars": 6540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "instant.page",
+          "description": "一个判断用户行为 预测提前加载页面的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-15T23:19:32Z",
+            "owner": "instantpage",
+            "repo": "instant.page",
+            "stars": 6218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spritejs",
+          "description": "360 奇舞团出的跨平台绘图对象模型",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-09T14:25:58Z",
+            "owner": "spritejs",
+            "repo": "spritejs",
+            "stars": 5390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightgallery",
+          "description": "图片预览组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T20:17:04Z",
+            "owner": "sachinchoolur",
+            "repo": "lightgallery.js",
+            "stars": 5324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "big.js",
+          "description": "解决 js 浮点数问题。 主要就是 Big Number 或者小数点温柔",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-22T19:47:27Z",
+            "owner": "MikeMcl",
+            "repo": "big.js",
+            "stars": 5193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "percollate",
+          "description": "命令行工具 能将网页转换成 pdf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-29T18:07:40Z",
+            "owner": "danburzo",
+            "repo": "percollate",
+            "stars": 4662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanitize-html",
+          "description": "html 过滤库，防 xss",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-02-26T19:54:30Z",
+            "owner": "apostrophecms",
+            "repo": "sanitize-html",
+            "stars": 4121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "body-scroll-lock",
+          "description": "解决滚动穿透问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-30T18:49:50Z",
+            "owner": "willmcpo",
+            "repo": "body-scroll-lock",
+            "stars": 4101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulltorefresh.js",
+          "description": "下个下拉刷新插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-24T03:38:01Z",
+            "owner": "BoxFactura",
+            "repo": "pulltorefresh.js",
+            "stars": 4005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grade",
+          "description": "一个可以根据你的 图片 调整底色的插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-02T07:36:04Z",
+            "owner": "benhowdle89",
+            "repo": "grade",
+            "stars": 3760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "he",
+          "description": "一个前端 encoder/decoder 库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-29T22:20:03Z",
+            "owner": "mathiasbynens",
+            "repo": "he",
+            "stars": 3602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlloyFinger",
+          "description": "腾讯出的手势库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-03T07:05:23Z",
+            "owner": "AlloyTeam",
+            "repo": "AlloyFinger",
+            "stars": 3439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selection",
+          "description": "可视化选择页面元素的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T16:11:10Z",
+            "owner": "simonwep",
+            "repo": "viselect",
+            "stars": 2948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pressure",
+          "description": "前端实现 3D Touch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T23:57:34Z",
+            "owner": "stuyam",
+            "repo": "pressure",
+            "stars": 2941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lulu",
+          "description": "腾讯阅文基于 jQuery，针对 PC 网站 IE8+（peak 主题）的前端 UI 框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T03:08:13Z",
+            "owner": "yued-fe",
+            "repo": "lulu",
+            "stars": 2808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shiny",
+          "description": "在手机设备上模拟光的反射效果。 支持 DeviceMotion 事件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-02T20:45:19Z",
+            "owner": "rikschennink",
+            "repo": "shiny",
+            "stars": 2780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "public-apis",
+          "description": "汇集了市面上一些对外免费开放的 api，做一些自己练手 app 的时候很好用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-23T16:11:30Z",
+            "owner": "toddmotto",
+            "repo": "public-apis",
+            "stars": 2743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rawact",
+          "description": "一个 babel 插件，把 react 组件转为原生 dom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T02:09:35Z",
+            "owner": "sokra",
+            "repo": "rawact",
+            "stars": 2508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stickybits",
+          "description": "CSS 的 position: sticky 是一个很有用的设置，但是老的浏览器不支持。这个 JS 库是该功能的垫片库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-26T18:38:01Z",
+            "owner": "dollarshaveclub",
+            "repo": "stickybits",
+            "stars": 2158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudquery",
+          "description": "Turn any website to serverless API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:08:19Z",
+            "owner": "t9tio",
+            "repo": "cloudquery",
+            "stars": 2150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "img-2",
+          "description": "一个提高图片加载性能和体验的库，懒加载使用 web worker 模糊预览",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-05-22T16:11:30Z",
+            "owner": "RevillWeb",
+            "repo": "img-2",
+            "stars": 1881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commonmark.js",
+          "description": "parser and renderer markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T06:55:19Z",
+            "owner": "commonmark",
+            "repo": "commonmark.js",
+            "stars": 1565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pretty-bytes",
+          "description": "将字节转换成可以读的字符串，比如 1337 个字节，会显示成 1.34 KB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T16:58:15Z",
+            "owner": "sindresorhus",
+            "repo": "pretty-bytes",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pagemap",
+          "description": "Mini map for web pages 页面导航图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-09T18:17:49Z",
+            "owner": "lrsjng",
+            "repo": "pagemap",
+            "stars": 1284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scroll-out",
+          "description": "滚动效果（滚动视差）的框架，框架大小不到 1KB,使用回调的方式将相关动画元素的属性进行实时分配",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-14T16:21:12Z",
+            "owner": "scroll-out",
+            "repo": "scroll-out",
+            "stars": 1217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darken",
+          "description": "页面黑夜模式切换",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T05:15:34Z",
+            "owner": "ColinEspinas",
+            "repo": "darken",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scroll-hint",
+          "description": "用于提示用户页面可以左右滑动的一个提示库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-16T01:27:13Z",
+            "owner": "appleple",
+            "repo": "scroll-hint",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "irondb",
+          "description": "是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedDB、LocalStorage、SessionStorage 统一成一个接口。它的最大特色就是数据冗余机制，即使某种底层储存机制失效，它可以从其他机制恢复数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-10T23:14:12Z",
+            "owner": "gruns",
+            "repo": "irondb",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "前端常用"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "animate.css",
+          "description": "最有名的动画效果库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-29T19:34:21Z",
+            "owner": "animate-css",
+            "repo": "animate.css",
+            "stars": 82743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "particles.js",
+          "description": "前端实现颗粒粒子的动画效果库，比较炫酷，但相对的也比较吃性能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-28T03:21:07Z",
+            "owner": "VincentGarreau",
+            "repo": "particles.js",
+            "stars": 30224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NES.css",
+          "description": "任天堂主题风格 css 库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-01-17T20:53:09Z",
+            "owner": "nostalgic-css",
+            "repo": "NES.css",
+            "stars": 21802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rough",
+          "description": "基于 Canvas 的手绘风格图形库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-28T21:12:58Z",
+            "owner": "rough-stuff",
+            "repo": "rough",
+            "stars": 21126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "popmotion",
+          "description": "一个函数式声明前端动画库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-12T00:37:37Z",
+            "owner": "Popmotion",
+            "repo": "popmotion",
+            "stars": 20164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matter-js",
+          "description": "web 物理引擎",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-17T14:14:36Z",
+            "owner": "liabru",
+            "repo": "matter-js",
+            "stars": 18361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wired-elements",
+          "description": "基于 rough.js 分装 button input radio 等组件。它的底层是 Web components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-07T20:59:18Z",
+            "owner": "rough-stuff",
+            "repo": "wired-elements",
+            "stars": 10821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zdog",
+          "description": "3D engine 引擎",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T21:43:53Z",
+            "owner": "metafizzy",
+            "repo": "zdog",
+            "stars": 10650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laxxx",
+          "description": "滚动特效库 轻量级 压缩完 2kb",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-21T06:07:55Z",
+            "owner": "alexfoxy",
+            "repo": "lax.js",
+            "stars": 10479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leonsans",
+          "description": "酷炫的 字体 动画 geometric sans-serif typeface made with code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-21T05:40:09Z",
+            "owner": "cmiscm",
+            "repo": "leonsans",
+            "stars": 10174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic.css",
+          "description": "css 动画效果库 类似 animate.css",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-08-23T21:08:20Z",
+            "owner": "miniMAC",
+            "repo": "magic",
+            "stars": 8600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roughViz",
+          "description": "rough 风格的图表库 手绘风格的图表库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-26T11:54:48Z",
+            "owner": "jwilber",
+            "repo": "roughViz",
+            "stars": 7148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-doodle",
+          "description": "A web component for drawing patterns with CSS 一个用于使用 CSS 绘制图案的 Web 组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-19T13:29:13Z",
+            "owner": "css-doodle",
+            "repo": "css-doodle",
+            "stars": 6028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micron",
+          "description": "通过在元素上绑定属性从而实现动画效果的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-10-04T10:52:29Z",
+            "owner": "webkul",
+            "repo": "micron",
+            "stars": 2315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "direction-reveal",
+          "description": "根据鼠标进入位置，展现从不同方向 展现 hover 效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-27T04:26:26Z",
+            "owner": "NigelOToole",
+            "repo": "direction-reveal",
+            "stars": 517
+          }
+        }
+      ],
+      "title": "Css && 动画"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vue.Draggable",
+          "description": "DnD 拖拽组件 基于 Sortable.js 的 vue 版本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-04T07:33:56Z",
+            "owner": "SortableJS",
+            "repo": "Vue.Draggable",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vee-validate",
+          "description": "基于 vue 的验证，能验证的内容比较全",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-04T07:08:06Z",
+            "owner": "logaretm",
+            "repo": "vee-validate",
+            "stars": 11263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-virtual-scroller",
+          "description": "基于 vue 的虚拟列表无限滚动",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:13:53Z",
+            "owner": "Akryum",
+            "repo": "vue-virtual-scroller",
+            "stars": 10791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buefy",
+          "description": "适配移动端的 vue 组件库 看着还挺舒服的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-11T21:50:40Z",
+            "owner": "buefy",
+            "repo": "buefy",
+            "stars": 9521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vxe-table",
+          "description": "vue 表格解决方案，还没具体用过看着的确解决了其它 table 组件的一些问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:57:53Z",
+            "owner": "x-extends",
+            "repo": "vxe-table",
+            "stars": 8613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-multiselect",
+          "description": "select 组件 目前 vue 里面用过最好用的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T13:01:40Z",
+            "owner": "shentao",
+            "repo": "vue-multiselect",
+            "stars": 6780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuesax",
+          "description": "一个很漂亮的基于 vue 的 ui 框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-03T22:51:51Z",
+            "owner": "lusaxweb",
+            "repo": "vuesax",
+            "stars": 5587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-smooth-dnd",
+          "description": "Vue wrappers components for smooth-dnd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-23T17:52:58Z",
+            "owner": "kutlugsahin",
+            "repo": "vue-smooth-dnd",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-analytics",
+          "description": "基于 vue 的 谷歌统计封装",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-27T13:02:52Z",
+            "owner": "MatteoGabriele",
+            "repo": "vue-analytics",
+            "stars": 1784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-content-placeholders",
+          "description": "页面龙骨 skeleton",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-19T20:32:31Z",
+            "owner": "michalsnik",
+            "repo": "vue-content-placeholders",
+            "stars": 1569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-sauce",
+          "description": "一个可以展示 vue 源码的指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-07-15T10:40:24Z",
+            "owner": "byteboomers",
+            "repo": "vue-sauce",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuegg",
+          "description": "一个 vue 可视化拖拽界面生成器",
+          "children": []
+        }
+      ],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-in-patterns",
+          "description": "一本开源教你如何写 react 的书",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-27T05:35:58Z",
+            "owner": "krasimir",
+            "repo": "react-in-patterns",
+            "stars": 13574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jasonette",
+          "description": "一个用 json 来构建 hybrid App 的框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-31T16:50:09Z",
+            "owner": "Jasonette",
+            "repo": "JASONETTE-iOS",
+            "stars": 5227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crate",
+          "description": "一个 react 全栈练习(pc,mobile,rn,api) demo，适合入门拿来练手",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-02-09T09:51:09Z",
+            "owner": "atulmy",
+            "repo": "crate",
+            "stars": 2426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hocs",
+          "description": "react 相关 hoc 收集库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T22:25:57Z",
+            "owner": "deepsweet",
+            "repo": "hocs",
+            "stars": 2053
+          }
+        }
+      ],
+      "title": "实践库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "storybook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:19:34Z",
+            "owner": "storybookjs",
+            "repo": "storybook",
+            "stars": 90833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docsify",
+          "description": "轻量级文档工具，但其是运行时编译的，所以 seo 不好",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:27:24Z",
+            "owner": "docsifyjs",
+            "repo": "docsify",
+            "stars": 31451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T04:28:57Z",
+            "owner": "pedronauck",
+            "repo": "docz",
+            "stars": 23586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuepress",
+          "description": "vue 官方出品的文档工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T10:06:47Z",
+            "owner": "vuejs",
+            "repo": "vuepress",
+            "stars": 22745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx",
+          "description": "jsx + markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:40:45Z",
+            "owner": "mdx-js",
+            "repo": "mdx",
+            "stars": 19736
+          }
+        }
+      ],
+      "title": "文档"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "strapi",
+          "description": "开源的解决方案来创建、部署和管理自己的 API，通过图形化界面进行操作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:52:41Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 72858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phaser",
+          "description": "这是一个为桌面和移动浏览器开发 HTML5 游戏的快速开源框架。 你可以为 iOS、 Android 和不同的本地应用程序创建游戏。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T14:33:40Z",
+            "owner": "phaserjs",
+            "repo": "phaser",
+            "stars": 40133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseract",
+          "description": "图像识别，它能识别图片中的文字，支持中文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T04:19:12Z",
+            "owner": "naptha",
+            "repo": "tesseract.js",
+            "stars": 38623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabric.js",
+          "description": "基于 canvas 创建交互式的图片编辑界面非常适合用来做图片合成类工作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T14:05:42Z",
+            "owner": "fabricjs",
+            "repo": "fabric.js",
+            "stars": 31381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@pika/web",
+          "description": "让你不需要在本地 webpack 中 import，直接在游览器里面运行 npm 包",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T16:10:07Z",
+            "owner": "FredKSchott",
+            "repo": "snowpack",
+            "stars": 19309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PapaParse",
+          "description": "解析 csv excel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T08:10:57Z",
+            "owner": "mholt",
+            "repo": "PapaParse",
+            "stars": 13540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jscodeshift",
+          "description": "将 js 内容解析成 AST 语法树，然后提供一些便利的操作接口，方便我们对各个节点进行更改",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T06:18:05Z",
+            "owner": "facebook",
+            "repo": "jscodeshift",
+            "stars": 10029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serve",
+          "description": "快速起本地静态服务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T19:11:35Z",
+            "owner": "vercel",
+            "repo": "serve",
+            "stars": 9894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purifycss",
+          "description": "移除没使用到的 css",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-17T03:45:35Z",
+            "owner": "purifycss",
+            "repo": "purifycss",
+            "stars": 9853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npkill",
+          "description": "列出所有 node_modules，并支持删除",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T03:17:14Z",
+            "owner": "voidcosmos",
+            "repo": "npkill",
+            "stars": 9417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stats.js",
+          "description": "前端性能监控 如 FPS、内存使用情况等",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-11T03:59:02Z",
+            "owner": "mrdoob",
+            "repo": "stats.js",
+            "stars": 9144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinyin",
+          "description": "汉字拼音转换工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T09:54:41Z",
+            "owner": "hotoo",
+            "repo": "pinyin",
+            "stars": 7824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picojs",
+          "description": "js 人脸识别库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-25T22:05:20Z",
+            "owner": "nenadmarkus",
+            "repo": "picojs",
+            "stars": 6294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mammoth.js",
+          "description": "Convert Word documents (.docx files) to HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T13:58:57Z",
+            "owner": "mwilliamson",
+            "repo": "mammoth.js",
+            "stars": 6282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imagemin",
+          "description": "图片压缩库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-07T09:39:56Z",
+            "owner": "imagemin",
+            "repo": "imagemin",
+            "stars": 5719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recast",
+          "description": "前端 ast 库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:07:45Z",
+            "owner": "benjamn",
+            "repo": "recast",
+            "stars": 5253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "live-server",
+          "description": "可以快速启一个本地 dev 服务 并且支持自动刷新的 http server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-28T23:27:22Z",
+            "owner": "tapio",
+            "repo": "live-server",
+            "stars": 4562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamSaver.js",
+          "description": "大文件下载，不用像 saveAs 那样先读到内存中再下载",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T12:07:39Z",
+            "owner": "jimmywarting",
+            "repo": "StreamSaver.js",
+            "stars": 4365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-cli",
+          "description": "命令行测试下载上传速度",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T17:52:19Z",
+            "owner": "sindresorhus",
+            "repo": "fast-cli",
+            "stars": 2867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dropcss",
+          "description": "同上",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-24T19:27:19Z",
+            "owner": "leeoniya",
+            "repo": "dropcss",
+            "stars": 2126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gka",
+          "description": "一款高效、高性能的帧动画生成工具。只需一行命令，快速图片优化、生成动画文件，支持效果预览。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-07T15:08:59Z",
+            "owner": "gkajs",
+            "repo": "gka",
+            "stars": 2101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "merge-images",
+          "description": "图片合成，利用能将几张图片合成一张",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T01:53:43Z",
+            "owner": "lukechilds",
+            "repo": "merge-images",
+            "stars": 1710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es-checker",
+          "description": "检查当前环境对 ES6 支持的情况。支持浏览器和 node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-16T13:38:38Z",
+            "owner": "ruanyf",
+            "repo": "es-checker",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inline-css",
+          "description": "css covert to inline style 在生成 email 格式 html 的时候特别有用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-01T21:16:46Z",
+            "owner": "jonkemp",
+            "repo": "inline-css",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mddir",
+          "description": "生成 markdown file/folder structure 目录结构 tree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-19T08:28:54Z",
+            "owner": "JohnByrneRepo",
+            "repo": "mddir",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-try-catch-error-report",
+          "description": "全局自动 catch 错误进行数据上报",
+          "children": []
+        }
+      ],
+      "title": "工具库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Node"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playwright",
+          "description": "同 Puppeteer 团队出品，但区别是它支持 Chrome、Safari、Firefox、Edge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:33:32Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 94461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ink",
+          "description": "是一个 React 的命令行渲染器，命令行界面可以像写页面那么写了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:11:46Z",
+            "owner": "vadimdemedes",
+            "repo": "ink",
+            "stars": 39636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheerio",
+          "description": "用类 jQuery 语法处理 HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T03:16:49Z",
+            "owner": "cheeriojs",
+            "repo": "cheerio",
+            "stars": 30450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotenv",
+          "description": "通过.env 设置环境部变量 vue-cli 也依赖它",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T12:48:39Z",
+            "owner": "motdotla",
+            "repo": "dotenv",
+            "stars": 20515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patch-package",
+          "description": "优雅的修改 node_modules 中的依赖库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-30T07:56:17Z",
+            "owner": "ds300",
+            "repo": "patch-package",
+            "stars": 11222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plop",
+          "description": "同上，代码生成工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T14:57:13Z",
+            "owner": "plopjs",
+            "repo": "plop",
+            "stars": 7666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hygen",
+          "description": "快速方便的创建代码 可以命令行创建预设的 template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-09T11:40:47Z",
+            "owner": "jondot",
+            "repo": "hygen",
+            "stars": 5930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-semver",
+          "description": "node 版本验证库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T06:23:10Z",
+            "owner": "npm",
+            "repo": "node-semver",
+            "stars": 5456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "live-server",
+          "description": "一个简单的 http server 带有 reload 功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-28T23:27:22Z",
+            "owner": "tapio",
+            "repo": "live-server",
+            "stars": 4562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open",
+          "description": "node 打开浏览器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T16:12:08Z",
+            "owner": "sindresorhus",
+            "repo": "open",
+            "stars": 3494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "update-notifier",
+          "description": "node 依赖升级提醒工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T12:05:02Z",
+            "owner": "sindresorhus",
+            "repo": "update-notifier",
+            "stars": 1805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastscan",
+          "description": "node 敏感词库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-28T10:25:22Z",
+            "owner": "pyloque",
+            "repo": "fastscan",
+            "stars": 1149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-portfinder",
+          "description": "一个端口嗅探工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-21T21:38:03Z",
+            "owner": "http-party",
+            "repo": "node-portfinder",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree-cli",
+          "description": "node 根据目录结构生成 tree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:53:14Z",
+            "owner": "MrRaindrop",
+            "repo": "tree-cli",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree-node-cli",
+          "description": "node 根据目录结构生成 tree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-07T13:07:01Z",
+            "owner": "yangshun",
+            "repo": "tree-node-cli",
+            "stars": 289
+          }
+        }
+      ],
+      "title": "工具库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "commander.js",
+          "description": "自动的解析命令和参数，合并多选项，处理短参，等等，功能强大，上手简单",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:22:31Z",
+            "owner": "tj",
+            "repo": "commander.js",
+            "stars": 28358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chalk",
+          "description": "命令行着色美化库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T14:51:04Z",
+            "owner": "chalk",
+            "repo": "chalk",
+            "stars": 23303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inquirer.js",
+          "description": "A collection of common interactive command line user interfaces. 命令行询问库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:51:25Z",
+            "owner": "SBoudrias",
+            "repo": "Inquirer.js",
+            "stars": 21614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enquirer",
+          "description": "命令行 prompt 询问库，写 cli 的时候很有用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:35:28Z",
+            "owner": "nasa",
+            "repo": "openmct",
+            "stars": 13079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yargs",
+          "description": "命令行参数解析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T03:15:41Z",
+            "owner": "yargs",
+            "repo": "yargs",
+            "stars": 11509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ora",
+          "description": "Elegant terminal spinner 命令行 loading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T22:14:56Z",
+            "owner": "sindresorhus",
+            "repo": "ora",
+            "stars": 9737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signale",
+          "description": "一个 Node 的日志格式库，自带 16 个级别，可以定制颜色和 Emoji，可扩展的日志记录器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-06T20:08:22Z",
+            "owner": "klaudiosinani",
+            "repo": "signale",
+            "stars": 9179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "consola",
+          "description": "优雅的命令行 console logger 也使用了它",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:46:07Z",
+            "owner": "unjs",
+            "repo": "consola",
+            "stars": 7317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-notifier",
+          "description": "在 NodeJS 环境中，可以很方便的唤起 notifier 通知",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-24T13:43:42Z",
+            "owner": "mikaelbr",
+            "repo": "node-notifier",
+            "stars": 5845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "listr",
+          "description": "Terminal task 命令行任务列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-28T16:33:28Z",
+            "owner": "SamVerschueren",
+            "repo": "listr",
+            "stars": 3291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-table",
+          "description": "tables for the CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-12T09:29:09Z",
+            "owner": "Automattic",
+            "repo": "cli-table",
+            "stars": 2296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress-estimator",
+          "description": "命令行 progress bar 进度条模拟库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-17T19:08:07Z",
+            "owner": "bvaughn",
+            "repo": "progress-estimator",
+            "stars": 2129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qoa",
+          "description": "同上",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-03T14:46:11Z",
+            "owner": "klaudiosinani",
+            "repo": "qoa",
+            "stars": 2052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-progress",
+          "description": "Terminal Progress Bar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-23T16:58:31Z",
+            "owner": "npkgz",
+            "repo": "cli-progress",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "y18n",
+          "description": "yargs 基于 i18n 的一个包",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T08:25:00Z",
+            "owner": "yargs",
+            "repo": "y18n",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "命令行"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chokidar",
+          "description": "node 监听文件变化的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T18:48:51Z",
+            "owner": "paulmillr",
+            "repo": "chokidar",
+            "stars": 12216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fs-extra",
+          "description": "fs-extra 模块是系统 fs 模块的扩展，提供了更多便利的 API，并继承了 fs 模块的 API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T19:51:59Z",
+            "owner": "jprichardson",
+            "repo": "node-fs-extra",
+            "stars": 9599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glob",
+          "description": "文件查找",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T18:02:28Z",
+            "owner": "isaacs",
+            "repo": "node-glob",
+            "stars": 8715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "execa",
+          "description": "比 child_process 好用，返回 Promise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T02:10:22Z",
+            "owner": "sindresorhus",
+            "repo": "execa",
+            "stars": 7582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rimraf",
+          "description": "删除文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T19:38:06Z",
+            "owner": "isaacs",
+            "repo": "rimraf",
+            "stars": 5848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-run-all",
+          "description": "一个 CLI 工具可以并行或者串行执行 script 指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-15T05:51:28Z",
+            "owner": "mysticatea",
+            "repo": "npm-run-all",
+            "stars": 5837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "globby",
+          "description": "用于模式匹配目录文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T12:07:52Z",
+            "owner": "sindresorhus",
+            "repo": "globby",
+            "stars": 2648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memfs",
+          "description": "memory-fs 的替代品，将文件放在内存中优化读写，webpack 依赖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:01:54Z",
+            "owner": "streamich",
+            "repo": "memfs",
+            "stars": 2086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-glob",
+          "description": "文件查找",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-10T06:46:04Z",
+            "owner": "terkelg",
+            "repo": "tiny-glob",
+            "stars": 855
+          }
+        }
+      ],
+      "title": "文件处理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-best-practices",
+          "description": "node 最佳实践",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-15T11:41:04Z",
+            "owner": "goldbergyoni",
+            "repo": "nodebestpractices",
+            "stars": 105516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js 最佳实践",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-15T11:41:04Z",
+            "owner": "goldbergyoni",
+            "repo": "nodebestpractices",
+            "stars": 105516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fx",
+          "description": "命令行优化 JSON 输出",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T11:36:44Z",
+            "owner": "antonmedv",
+            "repo": "fx",
+            "stars": 20578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndb",
+          "description": "node 调试",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-26T07:03:35Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ndb",
+            "stars": 10871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-in-debugging",
+          "description": "node.js 调试指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-02T18:49:43Z",
+            "owner": "nswbmw",
+            "repo": "node-in-debugging",
+            "stars": 6455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dumper.js",
+          "description": "能让你的 node console 更加的规整，方便调试",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-05T18:52:56Z",
+            "owner": "ziishaned",
+            "repo": "dumper.js",
+            "stars": 2750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "why-is-node-running",
+          "description": "查看 node 为什么在运行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-08T15:01:13Z",
+            "owner": "mafintosh",
+            "repo": "why-is-node-running",
+            "stars": 1947
+          }
+        }
+      ],
+      "title": "调试"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mkcert",
+          "description": "一键命令 让本地也支持 https",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-13T13:37:46Z",
+            "owner": "FiloSottile",
+            "repo": "mkcert",
+            "stars": 59448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algorithm-visualizer",
+          "description": "算法代码可视化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-09T06:54:22Z",
+            "owner": "algorithm-visualizer",
+            "repo": "algorithm-visualizer",
+            "stars": 48666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyper",
+          "description": "前端命令行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T11:03:02Z",
+            "owner": "vercel",
+            "repo": "hyper",
+            "stars": 44692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outline",
+          "description": "一个免费开源的库，能让你快速搭建自己的 wiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:36:13Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nginxconfig",
+          "description": "可视化配置 nginx 提供了多个基础模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-14T10:56:21Z",
+            "owner": "digitalocean",
+            "repo": "nginxconfig.io",
+            "stars": 28284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yapi",
+          "description": "是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-12T09:29:34Z",
+            "owner": "YMFE",
+            "repo": "yapi",
+            "stars": 27719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/artf/grapesjs",
+          "description": "可视化建站工具 不需要写代码就能写一个页面，前端再次再次要下岗了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:16:44Z",
+            "owner": "GrapesJS",
+            "repo": "grapesjs",
+            "stars": 26121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docz",
+          "description": "让你能快速写文档的一个库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T04:28:57Z",
+            "owner": "pedronauck",
+            "repo": "docz",
+            "stars": 23586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eruda",
+          "description": "移动端调试工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-01T09:34:30Z",
+            "owner": "liriliri",
+            "repo": "eruda",
+            "stars": 21136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xterm.js",
+          "description": "一个 web terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:39:43Z",
+            "owner": "xtermjs",
+            "repo": "xterm.js",
+            "stars": 21047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bit",
+          "description": "实现了项目之间的代码共享 可以自建私有",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:59:25Z",
+            "owner": "teambit",
+            "repo": "bit",
+            "stars": 18457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mjml",
+          "description": "一个让发 email 更简单的框架。定义了一套自己的语法，你用这套语法写邮件，然后编译成 HTML。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T10:12:56Z",
+            "owner": "mjmlio",
+            "repo": "mjml",
+            "stars": 18198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verdaccio",
+          "description": "私有 npm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:10:10Z",
+            "owner": "verdaccio",
+            "repo": "verdaccio",
+            "stars": 17824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vConsole",
+          "description": "也是一个移动端调试工具 腾讯出品",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-27T04:53:58Z",
+            "owner": "Tencent",
+            "repo": "vConsole",
+            "stars": 17508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leon",
+          "description": "你开源项目的 ai 个人助手",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:01:13Z",
+            "owner": "leon-ai",
+            "repo": "leon",
+            "stars": 17431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An-English-Guide-for-Programmers",
+          "description": "专为程序员编写的英语学习指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-28T07:48:04Z",
+            "owner": "yujiangshui",
+            "repo": "A-Programmers-Guide-to-English",
+            "stars": 16575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminalizer",
+          "description": "命令行录制工具 基于 node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-tips",
+          "description": "git 进阶",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-08T03:13:00Z",
+            "owner": "521xueweihan",
+            "repo": "git-tips",
+            "stars": 15851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-recorder",
+          "description": "一个 chrome 插件 能够根据你的操作 自动生成 puppeteer 相关代码",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-16T13:35:36Z",
+            "owner": "checkly",
+            "repo": "headless-recorder",
+            "stars": 15294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-spreadsheet",
+          "description": "一个基于 Canvas 的 JS 电子表格库 excel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T14:04:44Z",
+            "owner": "myliang",
+            "repo": "x-spreadsheet",
+            "stars": 14586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeChatPlugin-MacOS",
+          "description": "一款功能强大的 macOS 版微信小助手",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-06-09T03:27:58Z",
+            "owner": "TKkk-iOSer",
+            "repo": "WeChatPlugin-MacOS",
+            "stars": 14281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-history",
+          "description": "可视化查看一个文件的历史变化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-10T10:15:02Z",
+            "owner": "pomber",
+            "repo": "git-history",
+            "stars": 13688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx-deck",
+          "description": "用 markdown 编写演示文稿",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T01:58:59Z",
+            "owner": "jxnblk",
+            "repo": "mdx-deck",
+            "stars": 11501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readme-md-generator",
+          "description": "一个命令行脚本帮你快速的创建一个 README",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T10:09:51Z",
+            "owner": "kefranabg",
+            "repo": "readme-md-generator",
+            "stars": 11129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termtosvg",
+          "description": "录制 命令操作转成 svg 基于 python",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-06-16T11:01:41Z",
+            "owner": "nbedos",
+            "repo": "termtosvg",
+            "stars": 9760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winds",
+          "description": "开源 RSS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-11T20:32:23Z",
+            "owner": "GetStream",
+            "repo": "Winds",
+            "stars": 9114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simpread",
+          "description": "简悦 ( SimpRead ) 让你瞬间进入沉浸式阅读的扩展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-29T07:13:49Z",
+            "owner": "Kenshin",
+            "repo": "simpread",
+            "stars": 8694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "majestic",
+          "description": "jest 可视化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-03T14:54:05Z",
+            "owner": "Raathigesh",
+            "repo": "majestic",
+            "stars": 7452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "high-speed-downloader",
+          "description": "百度网盘不限速下载 支持 Windows 和 Mac",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-11T07:27:05Z",
+            "owner": "dxcweb",
+            "repo": "high-speed-downloader",
+            "stars": 7116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-code-to-svg-flowchart",
+          "description": "将代码逻辑用流程图的方式展现出来",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-02T19:41:41Z",
+            "owner": "Bogdan-Lyashenko",
+            "repo": "js-code-to-svg-flowchart",
+            "stars": 7115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixelmatch",
+          "description": "diff 两张图片不一样的地方",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T08:13:13Z",
+            "owner": "mapbox",
+            "repo": "pixelmatch",
+            "stars": 6912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code-surfer",
+          "description": "基于 mdx-deck 的一个插件 让你更好的在文稿中展示 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-02T13:28:44Z",
+            "owner": "pomber",
+            "repo": "code-surfer",
+            "stars": 6375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eagle.js",
+          "description": "一个用 vue 来制作 PPT 的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-10T19:20:42Z",
+            "owner": "Zulko",
+            "repo": "eagle.js",
+            "stars": 4052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glorious-demo",
+          "description": "通过编写代码的方式构建一个命令行的演示例子",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T22:37:46Z",
+            "owner": "glorious-codes",
+            "repo": "glorious-demo",
+            "stars": 3399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hiper",
+          "description": "性能统计分析工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-20T13:57:25Z",
+            "owner": "pod4g",
+            "repo": "hiper",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readability",
+          "description": "移除页面非正文部分 基于 jsdom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-03T15:41:02Z",
+            "owner": "luin",
+            "repo": "readability",
+            "stars": 2520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonstore",
+          "description": "供免费，安全且基于 JSON 的云数据存储，自己玩的小项目神器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-05-01T05:17:00Z",
+            "owner": "bluzi",
+            "repo": "jsonstore",
+            "stars": 2029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zan-proxy",
+          "description": "本地调试线上环境的工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-07T08:43:45Z",
+            "owner": "youzan",
+            "repo": "zan-proxy",
+            "stars": 1826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh-polls",
+          "description": "可以在 github issue 中添加投票",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-09-05T14:38:29Z",
+            "owner": "apex",
+            "repo": "gh-polls",
+            "stars": 1759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "badgen",
+          "description": "快速构建和 shields 一样的 svg badge 但速度更快",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:33:34Z",
+            "owner": "badgen",
+            "repo": "badgen.net",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airtap",
+          "description": "测试浏览器兼容性，可覆盖 800 多种浏览器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-01T19:48:24Z",
+            "owner": "airtap",
+            "repo": "airtap",
+            "stars": 1376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "perflink",
+          "description": "与 jsperf 类似的一个比较 js 性能的网站",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-21T05:41:36Z",
+            "owner": "lukejacksonn",
+            "repo": "perflink",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "build-tracker",
+          "description": "构建大小追踪 记录你多个版本构建后文件大小的变化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-24T20:56:37Z",
+            "owner": "paularmstrong",
+            "repo": "build-tracker",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSUI",
+          "description": "一个用来控制管理前端项目的客户端",
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jarvis",
+          "description": "webpack dashboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-17T09:20:53Z",
+            "owner": "zouhir",
+            "repo": "jarvis",
+            "stars": 5467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cssnano",
+          "description": "CSS 压缩",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-13T07:30:41Z",
+            "owner": "cssnano",
+            "repo": "cssnano",
+            "stars": 4972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mini-css-extract-plugin",
+          "description": "提取 CSS 为单独文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:32:49Z",
+            "owner": "webpack",
+            "repo": "mini-css-extract-plugin",
+            "stars": 4663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-chain",
+          "description": "通过 chain 风格 api 的方式修改 webpack 配置",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-02-04T08:45:44Z",
+            "owner": "neutrinojs",
+            "repo": "webpack-chain",
+            "stars": 3180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bundle-buddy",
+          "description": "webpack bundle 依赖分析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T00:14:27Z",
+            "owner": "samccone",
+            "repo": "bundle-buddy",
+            "stars": 2882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "copy-webpack-plugin",
+          "description": "复制额外的文件到输出目录",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:42:12Z",
+            "owner": "webpack",
+            "repo": "copy-webpack-plugin",
+            "stars": 2851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speed-measure-webpack-plugin",
+          "description": "统计 webpack 各阶段的耗时",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-24T15:47:10Z",
+            "owner": "stephencookdev",
+            "repo": "speed-measure-webpack-plugin",
+            "stars": 2444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpackbar",
+          "description": "webpack 打包进度条",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:16:49Z",
+            "owner": "unjs",
+            "repo": "webpackbar",
+            "stars": 2092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duplicate-package-checker-webpack-plugin",
+          "description": "检查是否存在重复依赖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T09:01:06Z",
+            "owner": "darrenscerri",
+            "repo": "duplicate-package-checker-webpack-plugin",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsolete-webpack-plugin",
+          "description": "基于 browserslist 做浏览器升级提示",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-29T08:05:20Z",
+            "owner": "ElemeFE",
+            "repo": "obsolete-webpack-plugin",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Webpack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "axios",
+          "description": "目前最常见的请求库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:27:49Z",
+            "owner": "axios",
+            "repo": "axios",
+            "stars": 109233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "request",
+          "description": "老牌请求库 -*whatwg-fetch** fetch 请求库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-14T00:09:41Z",
+            "owner": "request",
+            "repo": "request",
+            "stars": 25520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "got",
+          "description": "http 请求库 如果你觉得 request 太多的话 这是一个不错的选择",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T21:38:13Z",
+            "owner": "sindresorhus",
+            "repo": "got",
+            "stars": 14932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grpc-web",
+          "description": "前端直连 gRPC 服务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T05:27:09Z",
+            "owner": "grpc",
+            "repo": "grpc-web",
+            "stars": 9251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-fetch",
+          "description": "node 环境下轻量级 fetch 请求库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T09:33:16Z",
+            "owner": "node-fetch",
+            "repo": "node-fetch",
+            "stars": 8855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reqwest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-03T11:58:08Z",
+            "owner": "ded",
+            "repo": "reqwest",
+            "stars": 2922
+          }
+        }
+      ],
+      "title": "请求处理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eslint-config-airbnb",
+          "description": "airbnb 约束风格",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": "管理 node 版本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettier",
+          "description": "更主观的风格自动修改",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T09:28:45Z",
+            "owner": "prettier",
+            "repo": "prettier",
+            "stars": 52198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lerna",
+          "description": "monorepo 管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:13:32Z",
+            "owner": "lerna",
+            "repo": "lerna",
+            "stars": 36054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "husky",
+          "description": "添加 git hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T23:03:16Z",
+            "owner": "typicode",
+            "repo": "husky",
+            "stars": 35267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint",
+          "description": "JS 风格约束",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:11:22Z",
+            "owner": "eslint",
+            "repo": "eslint",
+            "stars": 27456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lint-staged",
+          "description": "eslint 提速，只 lint 提交的代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T09:55:47Z",
+            "owner": "lint-staged",
+            "repo": "lint-staged",
+            "stars": 14712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serve",
+          "description": "本地静态服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T19:11:35Z",
+            "owner": "vercel",
+            "repo": "serve",
+            "stars": 9894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@zeit/ncc",
+          "description": "打包为 npm 包为一个文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:20:10Z",
+            "owner": "vercel",
+            "repo": "ncc",
+            "stars": 9832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xo",
+          "description": "封装自 eslint",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T23:27:31Z",
+            "owner": "xojs",
+            "repo": "xo",
+            "stars": 7994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "np",
+          "description": "npm publish 辅助，自动 push、打 tag、升版本等",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T22:35:40Z",
+            "owner": "sindresorhus",
+            "repo": "np",
+            "stars": 7711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-check",
+          "description": "检测依赖升级情况，我会和 配合着用，主要用来检测冗余依赖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T12:58:09Z",
+            "owner": "dylang",
+            "repo": "npm-check",
+            "stars": 6640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-env",
+          "description": "跨平台的环境变量声明",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-16T14:11:37Z",
+            "owner": "kentcdodds",
+            "repo": "cross-env",
+            "stars": 6525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yeoman-generator",
+          "description": "脚手架工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T05:22:51Z",
+            "owner": "yeoman",
+            "repo": "generator",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onchange",
+          "description": "监听文件变动然后做一些事",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T20:53:10Z",
+            "owner": "Qard",
+            "repo": "onchange",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lerna-changelog",
+          "description": "为 lerna 项目自动生成 changelog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:33:07Z",
+            "owner": "lerna",
+            "repo": "lerna-changelog",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpx",
+          "description": "复制，支持 glob，并且可以 watch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-07T15:33:37Z",
+            "owner": "mysticatea",
+            "repo": "cpx",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tasksfile",
+          "description": "在 node 中执行 script 脚本",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-10-19T09:59:40Z",
+            "owner": "pawelgalazka",
+            "repo": "tasksfile",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "concurrently",
+          "description": "在 npm scripts 里并行执行命令",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-07-28T15:18:58Z",
+            "owner": "kimmobrunfeldt",
+            "repo": "concurrently",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coveralls",
+          "description": "覆盖率",
+          "children": []
+        }
+      ],
+      "title": "工程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Motrix",
+          "description": "支持 HTTP、FTP、BT、磁力链、百度网盘的下载工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:19:20Z",
+            "owner": "agalwood",
+            "repo": "Motrix",
+            "stars": 52451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "more",
+          "description": "更多优秀的 mac app 介绍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T22:47:24Z",
+            "owner": "serhii-londar",
+            "repo": "open-source-mac-os-apps",
+            "stars": 49996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IINA",
+          "description": "mac 平台感觉免费最好的播放器 强推",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:23:30Z",
+            "owner": "iina",
+            "repo": "iina",
+            "stars": 45934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hidden",
+          "description": "是用来帮助你隐藏 macOS 菜单栏上那些不常用的应用图标",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-15T19:25:30Z",
+            "owner": "dwarvesf",
+            "repo": "hidden",
+            "stars": 14549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dozer",
+          "description": "一个开源的顶栏管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-11-30T13:45:27Z",
+            "owner": "Mortennn",
+            "repo": "Dozer",
+            "stars": 8720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gifski",
+          "description": "视频转 gif 工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-08T14:50:30Z",
+            "owner": "sindresorhus",
+            "repo": "Gifski",
+            "stars": 8523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beaker Browser",
+          "description": "P2P 开源浏览器 支持点对点发布文件，成为了文件传输工具，支持 DAT 对等协议",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T21:47:18Z",
+            "owner": "beakerbrowser",
+            "repo": "beaker",
+            "stars": 6746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tickeys",
+          "description": "让你用 Mac 键盘也能打出机械键盘的感觉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-23T21:15:17Z",
+            "owner": "yingDev",
+            "repo": "Tickeys",
+            "stars": 1540
+          }
+        }
+      ],
+      "title": "Mac"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "refined-github",
+          "description": "优化 github 默认功能和样式的 chrome 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:19:08Z",
+            "owner": "refined-github",
+            "repo": "refined-github",
+            "stars": 31925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visbug",
+          "description": "它可以帮助你改变 css，移动元素等等一系类强大的功能,页面调试神器。当然有些时候还是 DevTools 更好用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T01:35:42Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ProjectVisBug",
+            "stars": 5766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npmhub",
+          "description": "在 README 下方显示 npm 依赖信息",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-08-13T17:15:34Z",
+            "owner": "npmhub",
+            "repo": "npmhub",
+            "stars": 833
+          }
+        }
+      ],
+      "title": "Chrome 拓展"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vscode-leetcode",
+          "description": "一个能让你在 vscode 中刷 LeetCode 的插件 算一个划水神器吧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-13T07:26:20Z",
+            "owner": "LeetCode-OpenSource",
+            "repo": "vscode-leetcode",
+            "stars": 8500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polacode",
+          "description": "生产代码图片快照插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-24T11:09:12Z",
+            "owner": "octref",
+            "repo": "polacode",
+            "stars": 6841
+          }
+        }
+      ],
+      "title": "VS Code"
+    },
+    {
+      "description": "官方主题页 可以选择自己喜欢的主题 one-monokai 我用的是这个主题，很多年了",
+      "items": [],
+      "title": "主题"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "autojump",
+          "description": "实现目录间快速跳转，想去哪个目录直接 j + 目录名，不用在频繁的 cd 了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T11:03:43Z",
+            "owner": "ohmyzsh",
+            "repo": "ohmyzsh",
+            "stars": 189143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "history",
+          "description": "命令行记录",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T11:03:43Z",
+            "owner": "ohmyzsh",
+            "repo": "ohmyzsh",
+            "stars": 189143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-autosuggestions",
+          "description": "命令自动建议和补全",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-24T16:15:03Z",
+            "owner": "zsh-users",
+            "repo": "zsh-autosuggestions",
+            "stars": 35967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-syntax-highlighting",
+          "description": "命令行语法高亮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T19:11:51Z",
+            "owner": "zsh-users",
+            "repo": "zsh-syntax-highlighting",
+            "stars": 22922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-git-prompt",
+          "description": "git 分支信息提示",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-11-08T03:54:12Z",
+            "owner": "olivierverdier",
+            "repo": "zsh-git-prompt",
+            "stars": 1777
+          }
+        }
+      ],
+      "title": "zsh 插件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github Desktop",
+          "description": "管理 github 仓库的变更和 PR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:02:42Z",
+            "owner": "desktop",
+            "repo": "desktop",
+            "stars": 21754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeepingYouAwake",
+          "description": "可保证系统不自动休眠，挂机跑脚本很有用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-05-21T05:30:55Z",
+            "owner": "newmarcel",
+            "repo": "KeepingYouAwake",
+            "stars": 6825
+          }
+        }
+      ],
+      "title": "开发常用软件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "build-your-own-x",
+          "description": "教你用各种语言实现 Bot Database Neural Network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "**javascript-algorithms **",
+          "description": "教你用前端知识认识各种算法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "app-ideas",
+          "description": "很多年轻人苦于缺少练手的项目，这个项目收集了不少点子，每个点子都有明确的目标和复杂资源。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-11T14:51:21Z",
+            "owner": "florinpop17",
+            "repo": "app-ideas",
+            "stars": 96731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGL-Fluid-Simulation",
+          "description": "很酷的 WebGL 交互",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-12T13:29:23Z",
+            "owner": "PavelDoGreat",
+            "repo": "WebGL-Fluid-Simulation",
+            "stars": 16558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "not-paid",
+          "description": "如果你给人做网站，交过去以后对方没有付款，那么这个 JS 会把网站的透明度一天调低一点，直到看不见",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T20:35:18Z",
+            "owner": "kleampa",
+            "repo": "not-paid",
+            "stars": 15585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsfwjs",
+          "description": "前端图片鉴黄，基于 Tensorflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T15:28:33Z",
+            "owner": "infinitered",
+            "repo": "nsfwjs",
+            "stars": 8960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elevator.js",
+          "description": "我很喜欢的一个库，让一个 back-to-top 的效果有了一种坐复古电梯的感觉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-26T15:20:00Z",
+            "owner": "tholman",
+            "repo": "elevator.js",
+            "stars": 6641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the-bread-code",
+          "description": "使用程序员的思维制作面包 ，比如制作中使用 A/B test, 来比较那种做法更好。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-28T14:27:57Z",
+            "owner": "hendricius",
+            "repo": "the-bread-code",
+            "stars": 4139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-kawaii",
+          "description": "一个非常可爱的 React 卡通人脸库，很有意思",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-28T16:17:16Z",
+            "owner": "elizabetdev",
+            "repo": "react-kawaii",
+            "stars": 2953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chart-race-react",
+          "description": "图表竞赛 长条图赛跑动画 在微博或者 b 站这种类型视频很火",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-29T17:00:09Z",
+            "owner": "bchao1",
+            "repo": "chart-race-react",
+            "stars": 523
+          }
+        }
+      ],
+      "title": "有趣"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitmoji",
+          "description": "通过 emoji 表达 git 的操作内容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T04:05:02Z",
+            "owner": "carloscuesta",
+            "repo": "gitmoji",
+            "stars": 16788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codesandbox-client",
+          "description": "在线 web 开发容器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T11:28:12Z",
+            "owner": "codesandbox",
+            "repo": "codesandbox-client",
+            "stars": 13630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astexplorer",
+          "description": "一个在线 ast 生成器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-26T13:48:46Z",
+            "owner": "fkling",
+            "repo": "astexplorer",
+            "stars": 6540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "狼叔：如何正确的学习 Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-06T06:16:49Z",
+            "owner": "i5ting",
+            "repo": "How-to-learn-node-correctly",
+            "stars": 4535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cwim",
+          "description": "Count Words Inside a Markdown file 统计字数和预期阅读时间",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-01-25T06:14:44Z",
+            "owner": "spencerwooo",
+            "repo": "cwim",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "开发"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "feather",
+          "description": "免费的 icons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-11T02:18:59Z",
+            "owner": "feathericons",
+            "repo": "feather",
+            "stars": 25975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "**nord **",
+          "description": "北欧性冷淡风主题配色",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-10-18T21:33:29Z",
+            "owner": "nordtheme",
+            "repo": "nord",
+            "stars": 6863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ikonate",
+          "description": "提供免费的图标 icons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T18:58:51Z",
+            "owner": "mikolajdobrucki",
+            "repo": "ikonate",
+            "stars": 3582
+          }
+        }
+      ],
+      "title": "设计"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-comment",
+          "description": "里面收集了很多有趣的代码注释",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-10T02:29:50Z",
+            "owner": "Blankj",
+            "repo": "awesome-comment",
+            "stars": 2579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snake",
+          "description": "在地址栏里面玩贪吃蛇",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-30T04:31:25Z",
+            "owner": "epidemian",
+            "repo": "snake",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weird-fonts",
+          "description": "将普通字母转化为 特殊 unicode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-22T13:30:26Z",
+            "owner": "beizhedenglong",
+            "repo": "weird-fonts",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zero-width-lib",
+          "description": "利用零宽度字符实现 隐形水印、加密信息分享、逃脱词匹配，很有创意",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:16:23Z",
+            "owner": "yuanfux",
+            "repo": "zero-width-lib",
+            "stars": 224
+          }
+        }
+      ],
+      "title": "有趣"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vanillawebprojects",
+          "description": "通过纯前端的手段实现一些小项目，适合入门",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-28T13:15:34Z",
+            "owner": "bradtraversy",
+            "repo": "vanillawebprojects",
+            "stars": 16097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html-dom",
+          "description": "一些常用的 dom 或者原生 js 操作判断，挺实用的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2024-06-06T13:29:06Z",
+            "owner": "phuocng",
+            "repo": "html-dom",
+            "stars": 6519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js CLI Apps Best Practices",
+          "description": "叫你如何写好一个 node cli 工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T19:57:50Z",
+            "owner": "lirantal",
+            "repo": "nodejs-cli-apps-best-practices",
+            "stars": 4109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mobile-web-best-practice",
+          "description": "移动 web 最佳实践",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T20:43:54Z",
+            "owner": "mcuking",
+            "repo": "mobile-web-best-practice",
+            "stars": 1740
+          }
+        }
+      ],
+      "title": "教程"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:19:58.897Z",
+    "original_repository": "PanJiaChen/awesome-bookmarks",
+    "original_repository_sha": "c6dd42a94e867d89efda557d216a254f2db6b272",
+    "enhanced_repository": "enhansome/enhansome-bookmarks",
+    "enhanced_repository_description": null,
+    "title": "Awesome 推荐库 with stars"
+  }
+}
