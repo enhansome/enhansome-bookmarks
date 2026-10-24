@@ -63,34 +63,34 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 前端常用
 
-* [**JSON-server**](https://github.com/typicode/json-server) ⭐ 75,734 | 🐛 723 | 🌐 JavaScript | 📅 2026-03-23 可以配合 LowDB 使用 快速搭建一个 REST API
-* [**lodash**](https://github.com/lodash/lodash) ⭐ 61,283 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-01 前端工具函数集合
-* [**dayjs**](https://github.com/xx45/dayjs) ⭐ 48,656 | 🐛 1,394 | 🌐 JavaScript | 📅 2026-09-15 一个轻量级类 moment.js API 时间库
-* [**dayjs**](https://github.com/iamkun/dayjs) ⭐ 48,656 | 🐛 1,394 | 🌐 JavaScript | 📅 2026-09-15 时间处理库，不过大部分情况下我还是用自己的封装的函数
-* [**tabler**](https://github.com/tabler/tabler) ⭐ 41,943 | 🐛 43 | 🌐 Astro | 📅 2026-10-23 基于 Bootstrap 4 的 Dashboard UI Kit 和美观 高颜值 ui 模板
+* [**JSON-server**](https://github.com/typicode/json-server) ⭐ 75,733 | 🐛 723 | 🌐 JavaScript | 📅 2026-03-23 可以配合 LowDB 使用 快速搭建一个 REST API
+* [**lodash**](https://github.com/lodash/lodash) ⭐ 61,280 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-01 前端工具函数集合
+* [**dayjs**](https://github.com/xx45/dayjs) ⭐ 48,658 | 🐛 1,393 | 🌐 JavaScript | 📅 2026-09-15 一个轻量级类 moment.js API 时间库
+* [**dayjs**](https://github.com/iamkun/dayjs) ⭐ 48,658 | 🐛 1,393 | 🌐 JavaScript | 📅 2026-09-15 时间处理库，不过大部分情况下我还是用自己的封装的函数
+* [**tabler**](https://github.com/tabler/tabler) ⭐ 41,946 | 🐛 43 | 🌐 Astro | 📅 2026-10-24 基于 Bootstrap 4 的 Dashboard UI Kit 和美观 高颜值 ui 模板
 * [**lerna**](https://github.com/lerna/lerna) ⭐ 36,037 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-23 大项目版本控制工具，项目中可以有多个 package.json 文件
-* [**uppy**](https://github.com/transloadit/uppy) ⭐ 31,035 | 🐛 232 | 🌐 TypeScript | 📅 2026-10-22 一个很好看的也很好用的 前端上传库
-* [**fingerprintjs**](https://github.com/Valve/fingerprintjs2) ⭐ 28,624 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-21 是一个快速的浏览器指纹库，通浏览环境的一系列配置生成 id
-* [**nanoid**](https://github.com/ai/nanoid) ⭐ 27,110 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 前端轻量 unique string ID 生成库
-* [**photoswipe**](https://github.com/dimsemenov/photoswipe) ⭐ 25,282 | 🐛 172 | 🌐 JavaScript | 📅 2025-12-04 图片预览组件，支持移动端
-* [**hammer**](https://github.com/hammerjs/hammer.js) ⭐ 24,321 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04 移动端手势库
-* [**rxdb**](https://github.com/pubkey/rxdb) ⭐ 23,412 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-23 一款开源的快速、灵活的客户端数据库，支持各种浏览器以及 NodeJS，Electron、React 等等，是 PouthDB 之上的一个封装库
-* [**VuePress**](https://github.com/vuejs/vuepress) ⭐ 22,715 | 🐛 605 | 🌐 JavaScript | 📅 2024-08-07 本网站就是基于它实现的，简单方便的静态网站生成器
-* [**lowdb**](https://github.com/typicode/lowdb) ⭐ 22,582 | 🐛 17 | 🌐 JavaScript | 📅 2026-03-27 LowDB 是一个本地 JSON 数据库，基于 Lodash 开发的
+* [**uppy**](https://github.com/transloadit/uppy) ⭐ 31,036 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-24 一个很好看的也很好用的 前端上传库
+* [**fingerprintjs**](https://github.com/Valve/fingerprintjs2) ⭐ 28,626 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-21 是一个快速的浏览器指纹库，通浏览环境的一系列配置生成 id
+* [**nanoid**](https://github.com/ai/nanoid) ⭐ 27,111 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-16 前端轻量 unique string ID 生成库
+* [**photoswipe**](https://github.com/dimsemenov/photoswipe) ⭐ 25,284 | 🐛 172 | 🌐 JavaScript | 📅 2025-12-04 图片预览组件，支持移动端
+* [**hammer**](https://github.com/hammerjs/hammer.js) ⭐ 24,323 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04 移动端手势库
+* [**rxdb**](https://github.com/pubkey/rxdb) ⭐ 23,412 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 一款开源的快速、灵活的客户端数据库，支持各种浏览器以及 NodeJS，Electron、React 等等，是 PouthDB 之上的一个封装库
+* [**VuePress**](https://github.com/vuejs/vuepress) ⭐ 22,714 | 🐛 605 | 🌐 JavaScript | 📅 2024-08-07 本网站就是基于它实现的，简单方便的静态网站生成器
+* [**lowdb**](https://github.com/typicode/lowdb) ⭐ 22,585 | 🐛 17 | 🌐 JavaScript | 📅 2026-03-27 LowDB 是一个本地 JSON 数据库，基于 Lodash 开发的
 * [**FileSaver.js**](https://github.com/eligrey/FileSaver.js) ⭐ 21,964 | 🐛 213 | 🌐 JavaScript | 📅 2023-03-01 文件下载插件 很多时候下载会有兼容性问题，它能帮你解决这些问题
-* [**fuse.js**](https://github.com/krisk/fuse) ⭐ 20,509 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-09 轻量级前端模糊查询库 非常的好用
-* [**rrweb**](https://github.com/rrweb-io/rrweb) ⭐ 20,301 | 🐛 433 | 🌐 TypeScript | 📅 2026-10-23 一个可以记录你页面中所有操作的库
-* [**sweetalert2**](https://github.com/sweetalert2/sweetalert2) ⭐ 18,097 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-14 一个自适应，且自定义性强的弹出框（零依赖）
+* [**fuse.js**](https://github.com/krisk/fuse) ⭐ 20,510 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-09 轻量级前端模糊查询库 非常的好用
+* [**rrweb**](https://github.com/rrweb-io/rrweb) ⭐ 20,305 | 🐛 431 | 🌐 TypeScript | 📅 2026-10-24 一个可以记录你页面中所有操作的库
+* [**sweetalert2**](https://github.com/sweetalert2/sweetalert2) ⭐ 18,094 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-14 一个自适应，且自定义性强的弹出框（零依赖）
 * [**tui.editor**](https://github.com/nhnent/tui.editor) ⚠️ Archived markdown 所见即所得编辑器
 * [**cleave.js**](https://github.com/nosir/cleave.js) ⭐ 17,843 | 🐛 219 | 🌐 JavaScript | 📅 2023-11-25 用于在输入时格式化输入内容（信用卡格式、日期等）
-* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,478 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-23 比 sanitize-html 更轻量，建议一般业务用这个
-* [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐ 17,020 | 🐛 11 | 📅 2023-01-28 专为程序员编写的英语学习指南。
-* [**Filepond**](https://github.com/pqina/filepond) ⭐ 16,392 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-02 一个小巧的文件上传库
-* [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,923 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-23 Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件
-* [**gpu.js**](https://github.com/gpujs/gpu.js) ⭐ 15,513 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-05 通过将 js 转为特定的 language，利用 GPU 来执行，大大提高了执行性能和速度
-* [**ajv**](https://github.com/epoberezkin/ajv) ⭐ 14,865 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-06 一个 json schema 验证的库
-* [**flexsearch**](https://github.com/nextapps-de/flexsearch) ⭐ 13,810 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-28 能让你更加高效和快速的检索文本内容
-* [**primjs**](https://github.com/PrismJS/prism) ⭐ 13,050 | 🐛 516 | 🌐 JavaScript | 📅 2026-10-15 让页面支持代码高亮
+* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,480 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 比 sanitize-html 更轻量，建议一般业务用这个
+* [**A-Programmers-Guide-to-English**](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐ 17,021 | 🐛 11 | 📅 2023-01-28 专为程序员编写的英语学习指南。
+* [**Filepond**](https://github.com/pqina/filepond) ⭐ 16,394 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-02 一个小巧的文件上传库
+* [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) ⭐ 15,923 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-24 Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件
+* [**gpu.js**](https://github.com/gpujs/gpu.js) ⭐ 15,516 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-05 通过将 js 转为特定的 language，利用 GPU 来执行，大大提高了执行性能和速度
+* [**ajv**](https://github.com/epoberezkin/ajv) ⭐ 14,864 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-06 一个 json schema 验证的库
+* [**flexsearch**](https://github.com/nextapps-de/flexsearch) ⭐ 13,808 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-28 能让你更加高效和快速的检索文本内容
+* [**primjs**](https://github.com/PrismJS/prism) ⭐ 13,051 | 🐛 517 | 🌐 JavaScript | 📅 2026-10-15 让页面支持代码高亮
 * [**tippy.js**](https://github.com/atomiks/tippyjs) ⚠️ Archived 最著名的 tooltip/popover library
 * [**mitt**](https://github.com/developit/mitt) ⭐ 11,903 | 🐛 28 | 🌐 TypeScript | 📅 2024-08-14 轻量级 pub/sub
 * [**ReLaXed**](https://github.com/RelaxedJS/ReLaXed) ⭐ 11,789 | 🐛 52 | 🌐 JavaScript | 📅 2025-09-07 一个将 document html 转成 PDF 的工具
@@ -101,13 +101,13 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 * [**tui.image-editor**](https://github.com/nhnent/tui.image-editor) ⚠️ Archived 一个功能齐全的在线图片编辑，基于 canvas
 * [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) ⭐ 7,139 | 🐛 14 | 🌐 HTML | 📅 2026-09-18 浏览器全屏插件 解决了不少兼容性问题
 * [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) ⭐ 7,011 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-31 同上
-* [**dinero.js**](https://github.com/sarahdayan/dinero.js) ⭐ 6,807 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-23 用来创建、计算和格式化货币价值的不可变的框架，支持国际化
+* [**dinero.js**](https://github.com/sarahdayan/dinero.js) ⭐ 6,808 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-23 用来创建、计算和格式化货币价值的不可变的框架，支持国际化
 * [**chancejs**](https://github.com/chancejs/chancejs) ⭐ 6,531 | 🐛 176 | 🌐 JavaScript | 📅 2025-05-18 生成随机数据的库
 * [**instant.page**](https://github.com/instantpage/instant.page) ⭐ 6,217 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-29 一个判断用户行为 预测提前加载页面的库
 * [**spritejs**](https://github.com/spritejs/spritejs) ⭐ 5,390 | 🐛 78 | 🌐 JavaScript | 📅 2024-06-09 360 奇舞团出的跨平台绘图对象模型
-* [**lightgallery**](https://github.com/sachinchoolur/lightgallery.js) ⭐ 5,318 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-17 图片预览组件
-* [**big.js**](https://github.com/MikeMcl/big.js) ⭐ 5,199 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-22 解决 js 浮点数问题。 主要就是 Big Number 或者小数点温柔
-* [**percollate**](https://github.com/danburzo/percollate) ⭐ 4,691 | 🐛 17 | 🌐 JavaScript | 📅 2025-08-29 命令行工具 能将网页转换成 pdf
+* [**lightgallery**](https://github.com/sachinchoolur/lightgallery.js) ⭐ 5,320 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-17 图片预览组件
+* [**big.js**](https://github.com/MikeMcl/big.js) ⭐ 5,200 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-22 解决 js 浮点数问题。 主要就是 Big Number 或者小数点温柔
+* [**percollate**](https://github.com/danburzo/percollate) ⭐ 4,692 | 🐛 17 | 🌐 JavaScript | 📅 2025-08-29 命令行工具 能将网页转换成 pdf
 * [sanitize-html](https://github.com/apostrophecms/sanitize-html) ⚠️ Archived html 过滤库，防 xss
 * [**body-scroll-lock**](https://github.com/willmcpo/body-scroll-lock) ⭐ 4,095 | 🐛 119 | 🌐 JavaScript | 📅 2023-03-30 解决滚动穿透问题
 * [**pulltorefresh.js**](https://github.com/BoxFactura/pulltorefresh.js) ⭐ 3,999 | 🐛 6 | 🌐 JavaScript | 📅 2025-09-24 下个下拉刷新插件
@@ -118,10 +118,10 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 * [**pressure**](https://github.com/stuyam/pressure) ⭐ 2,940 | 🐛 23 | 🌐 JavaScript | 📅 2022-12-06 前端实现 3D Touch
 * [**lulu**](https://github.com/yued-fe/lulu) ⭐ 2,804 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-05 腾讯阅文基于 jQuery，针对 PC 网站 IE8+（peak 主题）的前端 UI 框架
 * [**shiny**](https://github.com/rikschennink/shiny) ⭐ 2,778 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-02 在手机设备上模拟光的反射效果。 支持 DeviceMotion 事件
-* [**public-apis**](https://github.com/toddmotto/public-apis) ⭐ 2,748 | 🐛 13 | 📅 2024-06-23 汇集了市面上一些对外免费开放的 api，做一些自己练手 app 的时候很好用。
+* [**public-apis**](https://github.com/toddmotto/public-apis) ⭐ 2,747 | 🐛 13 | 📅 2024-06-23 汇集了市面上一些对外免费开放的 api，做一些自己练手 app 的时候很好用。
 * [**rawact**](https://github.com/sokra/rawact) ⭐ 2,507 | 🐛 18 | 🌐 JavaScript | 📅 2019-02-25 一个 babel 插件，把 react 组件转为原生 dom
 * [**stickybits**](https://github.com/dollarshaveclub/stickybits) ⚠️ Archived CSS 的 position: sticky 是一个很有用的设置，但是老的浏览器不支持。这个 JS 库是该功能的垫片库。
-* [**cloudquery**](https://github.com/cloudfetch/cloudquery) ⭐ 2,149 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-07 Turn any website to serverless API
+* [**cloudquery**](https://github.com/cloudfetch/cloudquery) ⭐ 2,150 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-07 Turn any website to serverless API
 * [**img-2**](https://github.com/RevillWeb/img-2) ⭐ 1,879 | 🐛 7 | 🌐 HTML | 📅 2018-05-22 一个提高图片加载性能和体验的库，懒加载使用 web worker 模糊预览
 * [**commonmark.js**](https://github.com/commonmark/commonmark.js) ⭐ 1,570 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-13 parser and renderer markdown
 * [**pretty-bytes**](https://github.com/sindresorhus/pretty-bytes) ⭐ 1,319 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 将字节转换成可以读的字符串，比如 1337 个字节，会显示成 1.34 KB
@@ -136,18 +136,18 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## Css && 动画
 
-* [**animate.css**](https://github.com/daneden/animate.css) ⭐ 82,910 | 🐛 81 | 🌐 CSS | 📅 2024-07-29 最有名的动画效果库
-* [**particles.js**](https://github.com/VincentGarreau/particles.js) ⭐ 30,201 | 🐛 365 | 🌐 JavaScript | 📅 2024-03-28 前端实现颗粒粒子的动画效果库，比较炫酷，但相对的也比较吃性能
-* [**NES.css**](https://github.com/BcRikko/NES.css) ⭐ 21,849 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17 任天堂主题风格 css 库
-* [**rough**](https://github.com/pshihn/rough) ⭐ 21,299 | 🐛 42 | 🌐 HTML | 📅 2024-07-28 基于 Canvas 的手绘风格图形库
-* [**popmotion**](https://github.com/Popmotion/popmotion) ⭐ 20,150 | 🐛 50 | 🌐 JavaScript | 📅 2024-03-12 一个函数式声明前端动画库
-* [**matter-js**](https://github.com/liabru/matter-js) ⭐ 18,489 | 🐛 279 | 🌐 JavaScript | 📅 2026-09-30 web 物理引擎
+* [**animate.css**](https://github.com/daneden/animate.css) ⭐ 82,911 | 🐛 81 | 🌐 CSS | 📅 2024-07-29 最有名的动画效果库
+* [**particles.js**](https://github.com/VincentGarreau/particles.js) ⭐ 30,202 | 🐛 365 | 🌐 JavaScript | 📅 2024-03-28 前端实现颗粒粒子的动画效果库，比较炫酷，但相对的也比较吃性能
+* [**NES.css**](https://github.com/BcRikko/NES.css) ⭐ 21,850 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17 任天堂主题风格 css 库
+* [**rough**](https://github.com/pshihn/rough) ⭐ 21,305 | 🐛 42 | 🌐 HTML | 📅 2024-07-28 基于 Canvas 的手绘风格图形库
+* [**popmotion**](https://github.com/Popmotion/popmotion) ⭐ 20,151 | 🐛 50 | 🌐 JavaScript | 📅 2024-03-12 一个函数式声明前端动画库
+* [**matter-js**](https://github.com/liabru/matter-js) ⭐ 18,490 | 🐛 279 | 🌐 JavaScript | 📅 2026-09-30 web 物理引擎
 * [**wired-elements**](https://github.com/wiredjs/wired-elements) ⭐ 10,845 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 基于 rough.js 分装 button input radio 等组件。它的底层是 Web components
-* [**zdog**](https://github.com/metafizzy/zdog) ⭐ 10,677 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 3D engine 引擎
+* [**zdog**](https://github.com/metafizzy/zdog) ⭐ 10,678 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 3D engine 引擎
 * [**laxxx**](https://github.com/alexfoxy/laxxx) ⚠️ Archived 滚动特效库 轻量级 压缩完 2kb
 * [**leonsans**](https://github.com/cmiscm/leonsans) ⭐ 10,164 | 🐛 14 | 🌐 JavaScript | 📅 2020-09-21 酷炫的 字体 动画 geometric sans-serif typeface made with code
 * [**magic.css**](https://github.com/miniMAC/magic) ⭐ 8,596 | 🐛 0 | 🌐 SCSS | 📅 2022-08-23 css 动画效果库 类似 animate.css
-* [**roughViz**](https://github.com/jwilber/roughViz) ⭐ 7,161 | 🐛 13 | 🌐 JavaScript | 📅 2024-04-26 rough 风格的图表库 手绘风格的图表库
+* [**roughViz**](https://github.com/jwilber/roughViz) ⭐ 7,162 | 🐛 13 | 🌐 JavaScript | 📅 2024-04-26 rough 风格的图表库 手绘风格的图表库
 * [**css-doodle**](https://github.com/css-doodle/css-doodle) ⭐ 6,068 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 A web component for drawing patterns with CSS 一个用于使用 CSS 绘制图案的 Web 组件
 * [**micron**](https://github.com/webkul/micron) ⭐ 2,312 | 🐛 2 | 🌐 CSS | 📅 2018-10-04 通过在元素上绑定属性从而实现动画效果的库
 * [**direction-reveal**](https://github.com/NigelOToole/direction-reveal) ⭐ 517 | 🐛 6 | 🌐 CSS | 📅 2023-01-27 根据鼠标进入位置，展现从不同方向 展现 hover 效果
@@ -158,9 +158,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 * [**Vue.Draggable**](https://github.com/SortableJS/Vue.Draggable) ⭐ 20,552 | 🐛 285 | 🌐 JavaScript | 📅 2024-03-04 DnD 拖拽组件 基于 Sortable.js 的 vue 版本
 * [**vee-validate**](https://github.com/baianat/vee-validate) ⭐ 11,259 | 🐛 172 | 🌐 TypeScript | 📅 2026-03-04 基于 vue 的验证，能验证的内容比较全
-* [**vue-virtual-scroller**](https://github.com/Akryum/vue-virtual-scroller) ⭐ 10,793 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-23 基于 vue 的虚拟列表无限滚动
+* [**vue-virtual-scroller**](https://github.com/Akryum/vue-virtual-scroller) ⭐ 10,794 | 🐛 203 | 🌐 TypeScript | 📅 2026-10-23 基于 vue 的虚拟列表无限滚动
 * [**buefy**](https://github.com/buefy/buefy) ⭐ 9,508 | 🐛 75 | 🌐 Vue | 📅 2026-09-08 适配移动端的 vue 组件库 看着还挺舒服的
-* [**vxe-table**](https://github.com/xuliangzhan/vxe-table) ⭐ 8,624 | 🐛 1,350 | 🌐 TypeScript | 📅 2026-10-23vue 表格解决方案，还没具体用过看着的确解决了其它 table 组件的一些问题
+* [**vxe-table**](https://github.com/xuliangzhan/vxe-table) ⭐ 8,624 | 🐛 1,350 | 🌐 TypeScript | 📅 2026-10-24vue 表格解决方案，还没具体用过看着的确解决了其它 table 组件的一些问题
 * [**vue-multiselect**](https://github.com/shentao/vue-multiselect) ⭐ 6,778 | 🐛 305 | 🌐 JavaScript | 📅 2026-09-17 select 组件 目前 vue 里面用过最好用的
 * [**vuesax**](https://github.com/lusaxweb/vuesax) ⭐ 5,573 | 🐛 386 | 🌐 Vue | 📅 2024-08-03 一个很漂亮的基于 vue 的 ui 框架
 * [**vue-smooth-dnd**](https://github.com/kutlugsahin/vue-smooth-dnd) ⭐ 1,835 | 🐛 135 | 🌐 JavaScript | 📅 2023-09-23 Vue wrappers components for smooth-dnd
@@ -179,38 +179,38 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 文档
 
-* [**storybook**](https://github.com/storybooks/storybook) ⭐ 91,357 | 🐛 1,853 | 🌐 TypeScript | 📅 2026-10-23
+* [**storybook**](https://github.com/storybooks/storybook) ⭐ 91,362 | 🐛 1,852 | 🌐 TypeScript | 📅 2026-10-24
 * [**docsify**](https://github.com/docsifyjs/docsify) ⭐ 31,558 | 🐛 100 | 🌐 JavaScript | 📅 2026-10-22 轻量级文档工具，但其是运行时编译的，所以 seo 不好
 * [**docz**](https://github.com/pedronauck/docz) ⚠️ Archived
-* [**vuepress**](https://github.com/vuejs/vuepress) ⭐ 22,715 | 🐛 605 | 🌐 JavaScript | 📅 2024-08-07 vue 官方出品的文档工具
-* [**mdx**](https://github.com/mdx-js/mdx) ⭐ 19,830 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-20 jsx + markdown
+* [**vuepress**](https://github.com/vuejs/vuepress) ⭐ 22,714 | 🐛 605 | 🌐 JavaScript | 📅 2024-08-07 vue 官方出品的文档工具
+* [**mdx**](https://github.com/mdx-js/mdx) ⭐ 19,830 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-23 jsx + markdown
 * [**GitBook**](https://www.gitbook.com/) 除了编译慢没啥毛病
 
 ## 工具库
 
-* [**strapi**](https://github.com/strapi/strapi/) ⭐ 73,364 | 🐛 640 | 🌐 TypeScript | 📅 2026-10-23 开源的解决方案来创建、部署和管理自己的 API，通过图形化界面进行操作
-* [**phaser**](https://github.com/photonstorm/phaser) ⭐ 40,548 | 🐛 176 | 🌐 JavaScript | 📅 2026-08-21 这是一个为桌面和移动浏览器开发 HTML5 游戏的快速开源框架。
+* [**strapi**](https://github.com/strapi/strapi/) ⭐ 73,369 | 🐛 642 | 🌐 TypeScript | 📅 2026-10-23 开源的解决方案来创建、部署和管理自己的 API，通过图形化界面进行操作
+* [**phaser**](https://github.com/photonstorm/phaser) ⭐ 40,554 | 🐛 176 | 🌐 JavaScript | 📅 2026-08-21 这是一个为桌面和移动浏览器开发 HTML5 游戏的快速开源框架。
   你可以为 iOS、 Android 和不同的本地应用程序创建游戏。
-* [**tesseract**](https://github.com/naptha/tesseract.js) ⭐ 38,789 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 图像识别，它能识别图片中的文字，支持中文
-* [**fabric.js**](https://github.com/fabricjs/fabric.js) ⭐ 31,514 | 🐛 459 | 🌐 TypeScript | 📅 2026-10-22 基于 canvas 创建交互式的图片编辑界面非常适合用来做图片合成类工作。
-* [**@pika/web**](https://github.com/pikapkg/web) ⭐ 19,273 | 🐛 384 | 🌐 JavaScript | 📅 2023-03-05 让你不需要在本地 webpack 中 import，直接在游览器里面运行 npm 包
-* [**PapaParse**](https://github.com/mholt/PapaParse) ⭐ 13,588 | 🐛 244 | 🌐 JavaScript | 📅 2026-10-09 解析 csv excel
+* [**tesseract**](https://github.com/naptha/tesseract.js) ⭐ 38,791 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 图像识别，它能识别图片中的文字，支持中文
+* [**fabric.js**](https://github.com/fabricjs/fabric.js) ⭐ 31,514 | 🐛 460 | 🌐 TypeScript | 📅 2026-10-22 基于 canvas 创建交互式的图片编辑界面非常适合用来做图片合成类工作。
+* [**@pika/web**](https://github.com/pikapkg/web) ⭐ 19,272 | 🐛 384 | 🌐 JavaScript | 📅 2023-03-05 让你不需要在本地 webpack 中 import，直接在游览器里面运行 npm 包
+* [**PapaParse**](https://github.com/mholt/PapaParse) ⭐ 13,588 | 🐛 245 | 🌐 JavaScript | 📅 2026-10-09 解析 csv excel
 * [**jscodeshift**](https://github.com/facebook/jscodeshift) ⭐ 10,042 | 🐛 163 | 🌐 JavaScript | 📅 2026-10-21 将 js 内容解析成 AST 语法树，然后提供一些便利的操作接口，方便我们对各个节点进行更改
-* [**serve**](https://github.com/zeit/serve) ⭐ 9,906 | 🐛 154 | 🌐 TypeScript | 📅 2026-06-30 快速起本地静态服务
-* [**purifycss**](https://github.com/purifycss/purifycss) ⭐ 9,835 | 🐛 80 | 🌐 JavaScript | 📅 2020-10-17 移除没使用到的 css
-* [**npkill**](https://github.com/voidcosmos/npkill) ⭐ 9,481 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 列出所有 node\_modules，并支持删除
-* [**stats.js**](https://github.com/mrdoob/stats.js/) ⭐ 9,151 | 🐛 23 | 🌐 JavaScript | 📅 2024-10-11 前端性能监控 如 FPS、内存使用情况等
+* [**serve**](https://github.com/zeit/serve) ⭐ 9,905 | 🐛 154 | 🌐 TypeScript | 📅 2026-06-30 快速起本地静态服务
+* [**purifycss**](https://github.com/purifycss/purifycss) ⭐ 9,834 | 🐛 80 | 🌐 JavaScript | 📅 2020-10-17 移除没使用到的 css
+* [**npkill**](https://github.com/voidcosmos/npkill) ⭐ 9,480 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 列出所有 node\_modules，并支持删除
+* [**stats.js**](https://github.com/mrdoob/stats.js/) ⭐ 9,152 | 🐛 23 | 🌐 JavaScript | 📅 2024-10-11 前端性能监控 如 FPS、内存使用情况等
 * [**pinyin**](https://github.com/hotoo/pinyin) ⭐ 7,831 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-09 汉字拼音转换工具
 * [**mammoth.js**](https://github.com/mwilliamson/mammoth.js) ⭐ 6,333 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-16 Convert Word documents (.docx files) to HTML
 * [**picojs**](https://github.com/tehnokv/picojs) ⭐ 6,289 | 🐛 29 | 🌐 JavaScript | 📅 2022-08-25 js 人脸识别库
 * [**imagemin**](https://github.com/imagemin/imagemin) ⭐ 5,716 | 🐛 81 | 🌐 JavaScript | 📅 2025-03-07 图片压缩库
 * [**recast**](https://github.com/benjamn/recast) ⭐ 5,255 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-18 前端 ast 库
 * [**live-server**](https://github.com/tapio/live-server) ⭐ 4,561 | 🐛 212 | 🌐 JavaScript | 📅 2024-04-28 可以快速启一个本地 dev 服务 并且支持自动刷新的 http server
-* [**StreamSaver.js**](https://github.com/jimmywarting/StreamSaver.js) ⭐ 4,372 | 🐛 100 | 🌐 JavaScript | 📅 2026-07-30 大文件下载，不用像 saveAs 那样先读到内存中再下载
+* [**StreamSaver.js**](https://github.com/jimmywarting/StreamSaver.js) ⭐ 4,373 | 🐛 100 | 🌐 JavaScript | 📅 2026-07-30 大文件下载，不用像 saveAs 那样先读到内存中再下载
 * [**fast-cli**](https://github.com/sindresorhus/fast-cli) ⭐ 2,892 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14 命令行测试下载上传速度
 * [**dropcss**](https://github.com/leeoniya/dropcss) ⭐ 2,125 | 🐛 15 | 🌐 HTML | 📅 2023-08-24 同上
 * [**gka**](https://github.com/gkajs/gka) ⭐ 2,110 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-07 一款高效、高性能的帧动画生成工具。只需一行命令，快速图片优化、生成动画文件，支持效果预览。
-* [**merge-images**](https://github.com/lukechilds/merge-images) ⭐ 1,711 | 🐛 43 | 🌐 JavaScript | 📅 2026-05-17 图片合成，利用`canvas`能将几张图片合成一张
+* [**merge-images**](https://github.com/lukechilds/merge-images) ⭐ 1,710 | 🐛 43 | 🌐 JavaScript | 📅 2026-05-17 图片合成，利用`canvas`能将几张图片合成一张
 * [**es-checker**](https://github.com/ruanyf/es-checker) ⭐ 1,018 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-16 检查当前环境对 ES6 支持的情况。支持浏览器和 node.js
 * [**inline-css**](https://github.com/jonkemp/inline-css#readme) ⭐ 438 | 🐛 64 | 🌐 JavaScript | 📅 2025-05-01 css covert to inline style 在生成 email 格式 html 的时候特别有用
 * [**mddir**](https://github.com/JohnByrneRepo/mddir) ⭐ 208 | 🐛 10 | 🌐 JavaScript | 📅 2022-05-19 生成 markdown file/folder structure 目录结构 tree
@@ -221,33 +221,33 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ### 工具库
 
-* [**Playwright**](https://github.com/microsoft/playwright) ⭐ 98,360 | 🐛 213 | 🌐 TypeScript | 📅 2026-10-22 同 Puppeteer 团队出品，但区别是它支持 Chrome、Safari、Firefox、Edge
-* [**ink**](https://github.com/vadimdemedes/ink) ⭐ 40,153 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 是一个 React 的命令行渲染器，命令行界面可以像写页面那么写了
+* [**Playwright**](https://github.com/microsoft/playwright) ⭐ 98,410 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-24 同 Puppeteer 团队出品，但区别是它支持 Chrome、Safari、Firefox、Edge
+* [**ink**](https://github.com/vadimdemedes/ink) ⭐ 40,156 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 是一个 React 的命令行渲染器，命令行界面可以像写页面那么写了
 * [**cheerio**](https://github.com/cheeriojs/cheerio) ⭐ 30,529 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-23 用类 jQuery 语法处理 HTML
-* [**dotenv**](https://github.com/motdotla/dotenv) ⭐ 20,549 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 通过.env 设置环境部变量 vue-cli 也依赖它
-* [**patch-package**](https://github.com/ds300/patch-package) ⭐ 11,230 | 🐛 282 | 🌐 TypeScript | 📅 2025-09-30 优雅的修改 node\_modules 中的依赖库
-* [**plop**](https://github.com/plopjs/plop) ⭐ 7,686 | 🐛 91 | 🌐 JavaScript | 📅 2026-10-16 同上，代码生成工具
+* [**dotenv**](https://github.com/motdotla/dotenv) ⭐ 20,550 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 通过.env 设置环境部变量 vue-cli 也依赖它
+* [**patch-package**](https://github.com/ds300/patch-package) ⭐ 11,231 | 🐛 282 | 🌐 TypeScript | 📅 2025-09-30 优雅的修改 node\_modules 中的依赖库
+* [**plop**](https://github.com/plopjs/plop) ⭐ 7,687 | 🐛 91 | 🌐 JavaScript | 📅 2026-10-16 同上，代码生成工具
 * [**hygen**](https://github.com/jondot/hygen) ⭐ 5,927 | 🐛 102 | 🌐 JavaScript | 📅 2024-07-09 快速方便的创建代码 可以命令行创建预设的 template
-* [**node-semver**](https://github.com/npm/node-semver) ⭐ 5,473 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-21 node 版本验证库
+* [**node-semver**](https://github.com/npm/node-semver) ⭐ 5,474 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-21 node 版本验证库
 * [**live-server**](https://github.com/tapio/live-server) ⭐ 4,561 | 🐛 212 | 🌐 JavaScript | 📅 2024-04-28 一个简单的 http server 带有 reload 功能
 * [**open**](https://github.com/sindresorhus/open) ⭐ 3,522 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 node 打开浏览器
 * [**update-notifier**](https://github.com/yeoman/update-notifier) ⭐ 1,810 | 🐛 19 | 🌐 JavaScript | 📅 2026-07-25node 依赖升级提醒工具
-* [**fastscan**](https://github.com/pyloque/fastscan) ⭐ 1,149 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-28 node 敏感词库
+* [**fastscan**](https://github.com/pyloque/fastscan) ⭐ 1,148 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-28 node 敏感词库
 * [**node-portfinder**](https://github.com/indexzero/node-portfinder) ⭐ 899 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-21 一个端口嗅探工具
 * [**tree-cli**](https://github.com/MrRaindrop/tree-cli) ⭐ 294 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-30 node 根据目录结构生成 tree
 * [**tree-node-cli**](https://github.com/yangshun/tree-node-cli) ⭐ 292 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07 node 根据目录结构生成 tree
 
 ### 命令行
 
-* [**commander.js**](https://github.com/tj/commander.js) ⭐ 28,432 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-19 自动的解析命令和参数，合并多选项，处理短参，等等，功能强大，上手简单
+* [**commander.js**](https://github.com/tj/commander.js) ⭐ 28,434 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-19 自动的解析命令和参数，合并多选项，处理短参，等等，功能强大，上手简单
 * [**chalk**](https://github.com/chalk/chalk) ⭐ 23,332 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 命令行着色美化库
-* [**Inquirer.js**](https://github.com/SBoudrias/Inquirer.js) ⭐ 21,635 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-22 A collection of common interactive command line user interfaces. 命令行询问库
-* [**enquirer**](https://github.com/nasa/openmct) ⭐ 13,187 | 🐛 1,090 | 🌐 JavaScript | 📅 2026-10-15 命令行 prompt 询问库，写 cli 的时候很有用
+* [**Inquirer.js**](https://github.com/SBoudrias/Inquirer.js) ⭐ 21,636 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-23 A collection of common interactive command line user interfaces. 命令行询问库
+* [**enquirer**](https://github.com/nasa/openmct) ⭐ 13,190 | 🐛 1,090 | 🌐 JavaScript | 📅 2026-10-15 命令行 prompt 询问库，写 cli 的时候很有用
 * [**yargs**](https://github.com/yargs/yargs) ⭐ 11,505 | 🐛 200 | 🌐 JavaScript | 📅 2026-10-20 命令行参数解析
 * [**ora**](https://github.com/sindresorhus/ora) ⭐ 9,767 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 Elegant terminal spinner 命令行 loading
 * [**signale**](https://github.com/klauscfhq/signale) ⭐ 9,172 | 🐛 37 | 🌐 JavaScript | 📅 2026-04-06 一个 Node 的日志格式库，自带 16 个级别，可以定制颜色和 Emoji，可扩展的日志记录器
 * [**consola**](https://github.com/nuxt/consola) ⭐ 7,340 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-20 优雅的命令行 console logger `vuepress` 也使用了它
-* [**node-notifier**](https://github.com/mikaelbr/node-notifier) ⭐ 5,846 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 在 NodeJS 环境中，可以很方便的唤起 notifier 通知
+* [**node-notifier**](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 在 NodeJS 环境中，可以很方便的唤起 notifier 通知
 * [**listr**](https://github.com/SamVerschueren/listr) ⭐ 3,287 | 🐛 63 | 🌐 JavaScript | 📅 2022-08-28 Terminal task 命令行任务列表
 * [**cli-table**](https://github.com/Automattic/cli-table) ⭐ 2,294 | 🐛 18 | 🌐 JavaScript | 📅 2024-08-12 tables for the CLI
 * [**progress-estimator**](https://github.com/bvaughn/progress-estimator) ⭐ 2,127 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-17 命令行 progress bar 进度条模拟库
@@ -260,7 +260,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 * [**chokidar**](https://github.com/paulmillr/chokidar) ⭐ 12,254 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-19 node 监听文件变化的库
 * [**fs-extra**](https://github.com/jprichardson/node-fs-extra) ⭐ 9,594 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-22 fs-extra 模块是系统 fs 模块的扩展，提供了更多便利的 API，并继承了 fs 模块的 API
 * [**glob**](https://github.com/isaacs/node-glob) ⭐ 8,712 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-05 文件查找
-* [**execa**](https://github.com/sindresorhus/execa) ⭐ 7,623 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 比 child\_process 好用，返回 Promise
+* [**execa**](https://github.com/sindresorhus/execa) ⭐ 7,624 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 比 child\_process 好用，返回 Promise
 * [**rimraf**](https://github.com/isaacs/rimraf) ⭐ 5,855 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 删除文件
 * [**npm-run-all**](https://github.com/mysticatea/npm-run-all) ⭐ 5,835 | 🐛 114 | 🌐 JavaScript | 📅 2024-08-15 一个 CLI 工具可以并行或者串行执行 script 指令
 * [**globby**](https://github.com/sindresorhus/globby) ⭐ 2,649 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 用于模式匹配目录文件
@@ -269,9 +269,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ### 调试
 
-* [**node-best-practices**](https://github.com/i0natan/nodebestpractices) ⭐ 105,670 | 🐛 140 | 🌐 Dockerfile | 📅 2026-06-15 node 最佳实践
-* [**Node.js 最佳实践**](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) ⭐ 105,670 | 🐛 140 | 🌐 Dockerfile | 📅 2026-06-15
-* [**fx**](https://github.com/antonmedv/fx) ⭐ 20,693 | 🐛 5 | 🌐 Go | 📅 2026-10-22 命令行优化 JSON 输出
+* [**node-best-practices**](https://github.com/i0natan/nodebestpractices) ⭐ 105,676 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15 node 最佳实践
+* [**Node.js 最佳实践**](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) ⭐ 105,676 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15
+* [**fx**](https://github.com/antonmedv/fx) ⭐ 20,695 | 🐛 5 | 🌐 Go | 📅 2026-10-22 命令行优化 JSON 输出
 * [**ndb**](https://github.com/GoogleChromeLabs/ndb) ⚠️ Archived node 调试
 * [**node-in-debugging**](https://github.com/nswbmw/node-in-debugging) ⭐ 6,448 | 🐛 8 | 📅 2021-09-02 node.js 调试指南
 * [**dumper.js**](https://github.com/zeeshanu/dumper.js) ⭐ 2,748 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-05 能让你的 node console 更加的规整，方便调试
@@ -286,37 +286,37 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 工具
 
-* [**mkcert**](https://github.com/FiloSottile/mkcert) ⭐ 59,787 | 🐛 178 | 🌐 Go | 📅 2024-08-13 一键命令 让本地也支持 https
+* [**mkcert**](https://github.com/FiloSottile/mkcert) ⭐ 59,788 | 🐛 178 | 🌐 Go | 📅 2024-08-13 一键命令 让本地也支持 https
 * [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) ⭐ 48,889 | 🐛 81 | 🌐 JavaScript | 📅 2024-06-09 算法代码可视化
-* [**hyper**](https://github.com/zeit/hyper) ⭐ 44,752 | 🐛 1,049 | 🌐 TypeScript | 📅 2026-08-21 前端命令行
-* [**outline**](https://github.com/outline/outline) ⭐ 41,038 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-23 一个免费开源的库，能让你快速搭建自己的 wiki
-* [**nginxconfig**](https://github.com/valentinxxx/nginxconfig.io/) ⭐ 28,256 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 可视化配置 nginx 提供了多个基础模板
-* [**yapi**](https://github.com/ymfe/yapi) ⭐ 27,702 | 🐛 1,626 | 🌐 JavaScript | 📅 2024-08-12 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台
-* [**https://github.com/artf/grapesjs**](https://github.com/artf/grapesjs) ⭐ 26,328 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-21 可视化建站工具 不需要写代码就能写一个页面，前端再次再次要下岗了
+* [**hyper**](https://github.com/zeit/hyper) ⭐ 44,750 | 🐛 1,049 | 🌐 TypeScript | 📅 2026-08-21 前端命令行
+* [**outline**](https://github.com/outline/outline) ⭐ 41,048 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-24 一个免费开源的库，能让你快速搭建自己的 wiki
+* [**nginxconfig**](https://github.com/valentinxxx/nginxconfig.io/) ⭐ 28,257 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 可视化配置 nginx 提供了多个基础模板
+* [**yapi**](https://github.com/ymfe/yapi) ⭐ 27,703 | 🐛 1,626 | 🌐 JavaScript | 📅 2024-08-12 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台
+* [**https://github.com/artf/grapesjs**](https://github.com/artf/grapesjs) ⭐ 26,333 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-21 可视化建站工具 不需要写代码就能写一个页面，前端再次再次要下岗了
 * [**docz**](https://github.com/pedronauck/docz) ⚠️ Archived 让你能快速写文档的一个库
-* [**xterm.js**](https://github.com/xtermjs/xterm.js) ⭐ 21,291 | 🐛 325 | 🌐 TypeScript | 📅 2026-10-13 一个 web terminal
-* [**eruda**](https://github.com/liriliri/eruda) ⭐ 21,225 | 🐛 84 | 🌐 JavaScript | 📅 2025-08-01 移动端调试工具
-* [**bit**](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-23 实现了项目之间的代码共享 可以自建私有
-* [**mjml**](https://github.com/mjmlio/mjml) ⭐ 18,282 | 🐛 55 | 🌐 JavaScript | 📅 2026-10-23 一个让发 email 更简单的框架。定义了一套自己的语法，你用这套语法写邮件，然后编译成 HTML。
-* [**verdaccio**](https://github.com/verdaccio/verdaccio) ⭐ 17,938 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-23 私有 npm
-* [**leon**](https://github.com/leon-ai/leon) ⭐ 17,599 | 🐛 115 | 🌐 TypeScript | 📅 2026-10-23 你开源项目的 ai 个人助手
-* [**vConsole**](https://github.com/Tencent/vConsole) ⭐ 17,536 | 🐛 51 | 🌐 TypeScript | 📅 2026-03-27 也是一个移动端调试工具 腾讯出品
-* [**An-English-Guide-for-Programmers**](https://github.com/yujiangshui/An-English-Guide-for-Programmers) ⭐ 17,020 | 🐛 11 | 📅 2023-01-28 专为程序员编写的英语学习指南
-* [**terminalizer**](https://github.com/faressoft/terminalizer) ⭐ 16,168 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29 命令行录制工具 基于 node
-* [**git-tips**](https://github.com/521xueweihan/git-tips) ⭐ 15,864 | 🐛 0 | 📅 2022-12-08 git 进阶
+* [**xterm.js**](https://github.com/xtermjs/xterm.js) ⭐ 21,292 | 🐛 326 | 🌐 TypeScript | 📅 2026-10-13 一个 web terminal
+* [**eruda**](https://github.com/liriliri/eruda) ⭐ 21,230 | 🐛 84 | 🌐 JavaScript | 📅 2025-08-01 移动端调试工具
+* [**bit**](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-23 实现了项目之间的代码共享 可以自建私有
+* [**mjml**](https://github.com/mjmlio/mjml) ⭐ 18,283 | 🐛 55 | 🌐 JavaScript | 📅 2026-10-23 一个让发 email 更简单的框架。定义了一套自己的语法，你用这套语法写邮件，然后编译成 HTML。
+* [**verdaccio**](https://github.com/verdaccio/verdaccio) ⭐ 17,940 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-24 私有 npm
+* [**leon**](https://github.com/leon-ai/leon) ⭐ 17,600 | 🐛 115 | 🌐 TypeScript | 📅 2026-10-24 你开源项目的 ai 个人助手
+* [**vConsole**](https://github.com/Tencent/vConsole) ⭐ 17,537 | 🐛 51 | 🌐 TypeScript | 📅 2026-03-27 也是一个移动端调试工具 腾讯出品
+* [**An-English-Guide-for-Programmers**](https://github.com/yujiangshui/An-English-Guide-for-Programmers) ⭐ 17,021 | 🐛 11 | 📅 2023-01-28 专为程序员编写的英语学习指南
+* [**terminalizer**](https://github.com/faressoft/terminalizer) ⭐ 16,167 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29 命令行录制工具 基于 node
+* [**git-tips**](https://github.com/521xueweihan/git-tips) ⭐ 15,865 | 🐛 0 | 📅 2022-12-08 git 进阶
 * [**puppeteer-recorder**](https://github.com/checkly/puppeteer-recorder) ⚠️ Archived 一个 chrome 插件 能够根据你的操作 自动生成 puppeteer 相关代码
 * [**x-spreadsheet**](https://github.com/myliang/x-spreadsheet) ⭐ 14,578 | 🐛 412 | 🌐 JavaScript | 📅 2024-08-07 一个基于 Canvas 的 JS 电子表格库 excel
-* [**WeChatPlugin-MacOS**](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) ⭐ 14,280 | 🐛 152 | 🌐 Objective-C | 📅 2024-06-09 一款功能强大的 macOS 版微信小助手
-* [**git-history**](https://github.com/pomber/git-history) ⭐ 13,675 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10 可视化查看一个文件的历史变化
+* [**WeChatPlugin-MacOS**](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) ⭐ 14,281 | 🐛 152 | 🌐 Objective-C | 📅 2024-06-09 一款功能强大的 macOS 版微信小助手
+* [**git-history**](https://github.com/pomber/git-history) ⭐ 13,674 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10 可视化查看一个文件的历史变化
 * [**mdx-deck**](https://github.com/jxnblk/mdx-deck) ⭐ 11,498 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 用 markdown 编写演示文稿
-* [**readme-md-generator**](https://github.com/kefranabg/readme-md-generator) ⭐ 11,141 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 一个命令行脚本帮你快速的创建一个 README
+* [**readme-md-generator**](https://github.com/kefranabg/readme-md-generator) ⭐ 11,140 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 一个命令行脚本帮你快速的创建一个 README
 * [**termtosvg**](https://github.com/nbedos/termtosvg) ⚠️ Archived 录制 命令操作转成 svg 基于 python
 * [**Winds**](https://github.com/GetStream/Winds) ⚠️ Archived 开源 RSS
-* [**simpread**](https://github.com/Kenshin/simpread) ⭐ 8,742 | 🐛 2,150 | 🌐 JavaScript | 📅 2026-09-05 简悦 ( SimpRead ) 让你瞬间进入沉浸式阅读的扩展
+* [**simpread**](https://github.com/Kenshin/simpread) ⭐ 8,741 | 🐛 2,150 | 🌐 JavaScript | 📅 2026-09-05 简悦 ( SimpRead ) 让你瞬间进入沉浸式阅读的扩展
 * [**majestic**](https://github.com/Raathigesh/majestic) ⭐ 7,442 | 🐛 50 | 🌐 TypeScript | 📅 2022-05-03 jest 可视化
 * [**js-code-to-svg-flowchart**](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) ⭐ 7,105 | 🐛 45 | 🌐 JavaScript | 📅 2023-10-02 将代码逻辑用流程图的方式展现出来
-* [**high-speed-downloader**](https://github.com/high-speed-downloader/high-speed-downloader) ⭐ 7,102 | 🐛 1 | 📅 2021-07-11 百度网盘不限速下载 支持 Windows 和 Mac
-* [**pixelmatch**](https://github.com/mapbox/pixelmatch) ⭐ 6,998 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-06 diff 两张图片不一样的地方
+* [**high-speed-downloader**](https://github.com/high-speed-downloader/high-speed-downloader) ⭐ 7,103 | 🐛 1 | 📅 2021-07-11 百度网盘不限速下载 支持 Windows 和 Mac
+* [**pixelmatch**](https://github.com/mapbox/pixelmatch) ⭐ 6,999 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-06 diff 两张图片不一样的地方
 * [**code-surfer**](https://github.com/pomber/code-surfer) ⭐ 6,371 | 🐛 42 | 🌐 JavaScript | 📅 2023-05-02 基于 mdx-deck 的一个插件
   让你更好的在文稿中展示 code
 * [**eagle.js**](https://github.com/Zulko/eagle.js) ⭐ 4,046 | 🐛 13 | 🌐 JavaScript | 📅 2022-07-10 一个用 vue 来制作 PPT 的库
@@ -346,8 +346,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## Webpack
 
-* [**jarvis**](https://github.com/zouhir/jarvis) ⭐ 5,478 | 🐛 21 | 🌐 JavaScript | 📅 2023-02-17 webpack dashboard
-* [**cssnano**](https://github.com/cssnano/cssnano) ⭐ 4,982 | 🐛 19 | 🌐 CSS | 📅 2026-10-23 CSS 压缩
+* [**jarvis**](https://github.com/zouhir/jarvis) ⭐ 5,479 | 🐛 21 | 🌐 JavaScript | 📅 2023-02-17 webpack dashboard
+* [**cssnano**](https://github.com/cssnano/cssnano) ⭐ 4,982 | 🐛 18 | 🌐 CSS | 📅 2026-10-24 CSS 压缩
 * [**mini-css-extract-plugin**](https://github.com/webpack-contrib/mini-css-extract-plugin) ⚠️ Archived 提取 CSS 为单独文件
 * [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) ⚠️ Archived 通过 chain 风格 api 的方式修改 webpack 配置
 * [**bundle-buddy**](https://github.com/samccone/bundle-buddy) ⭐ 2,879 | 🐛 18 | 🌐 TypeScript | 📅 2024-01-09 webpack bundle 依赖分析
@@ -367,29 +367,29 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 请求处理
 
-* [**axios**](https://github.com/axios/axios) ⭐ 109,307 | 🐛 119 | 🌐 JavaScript | 📅 2026-10-23 目前最常见的请求库
-* [**request**](https://github.com/request/request) ⭐ 25,485 | 🐛 145 | 🌐 JavaScript | 📅 2024-08-14 老牌请求库 -[\*whatwg-fetch\*\*](https://github.com/github/fetch) ⭐ 25,832 | 🐛 26 | 🌐 JavaScript | 📅 2024-07-15 fetch 请求库
-* [**got**](https://github.com/sindresorhus/got) ⭐ 14,951 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 http 请求库 如果你觉得 request 太多的话 这是一个不错的选择
-* [**grpc-web**](https://github.com/grpc/grpc-web) ⭐ 9,255 | 🐛 173 | 🌐 JavaScript | 📅 2026-10-18 前端直连 gRPC 服务
+* [**axios**](https://github.com/axios/axios) ⭐ 109,308 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-23 目前最常见的请求库
+* [**request**](https://github.com/request/request) ⭐ 25,486 | 🐛 145 | 🌐 JavaScript | 📅 2024-08-14 老牌请求库 -[\*whatwg-fetch\*\*](https://github.com/github/fetch) ⭐ 25,832 | 🐛 26 | 🌐 JavaScript | 📅 2024-07-15 fetch 请求库
+* [**got**](https://github.com/sindresorhus/got) ⭐ 14,952 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 http 请求库 如果你觉得 request 太多的话 这是一个不错的选择
+* [**grpc-web**](https://github.com/grpc/grpc-web) ⭐ 9,254 | 🐛 173 | 🌐 JavaScript | 📅 2026-10-18 前端直连 gRPC 服务
 * [**node-fetch**](https://github.com/bitinn/node-fetch) ⭐ 8,846 | 🐛 249 | 🌐 JavaScript | 📅 2026-05-12 node 环境下轻量级 fetch 请求库
 * [**reqwest**](https://github.com/ded/reqwest) ⭐ 2,920 | 🐛 105 | 🌐 JavaScript | 📅 2021-10-03
 
 ## 工程
 
 * [**eslint-config-airbnb**](https://github.com/airbnb/javascript) ⭐ 148,048 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16 airbnb 约束风格
-* [**nvm**](https://github.com/creationix/nvm) ⭐ 95,637 | 🐛 389 | 🌐 Shell | 📅 2026-10-10 管理 node 版本
-* [**prettier**](https://github.com/prettier/prettier) ⭐ 52,379 | 🐛 1,453 | 🌐 JavaScript | 📅 2026-10-23 更主观的风格自动修改
+* [**nvm**](https://github.com/creationix/nvm) ⭐ 95,640 | 🐛 389 | 🌐 Shell | 📅 2026-10-23 管理 node 版本
+* [**prettier**](https://github.com/prettier/prettier) ⭐ 52,379 | 🐛 1,456 | 🌐 JavaScript | 📅 2026-10-24 更主观的风格自动修改
 * [**lerna**](https://github.com/lerna/lerna) ⭐ 36,037 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-23 monorepo 管理
-* [**husky**](https://github.com/typicode/husky) ⭐ 35,360 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19 添加 git hooks
-* [**eslint**](https://github.com/eslint/eslint) ⭐ 27,574 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-23 JS 风格约束
-* [**lint-staged**](https://github.com/okonet/lint-staged) ⭐ 14,743 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-26 eslint 提速，只 lint 提交的代码
-* [**serve**](https://github.com/zeit/serve) ⭐ 9,906 | 🐛 154 | 🌐 TypeScript | 📅 2026-06-30 本地静态服务器
-* [**@zeit/ncc**](https://github.com/zeit/ncc) ⭐ 9,842 | 🐛 223 | 🌐 JavaScript | 📅 2026-08-13 打包为 npm 包为一个文件
-* [**xo**](https://github.com/xojs/xo) ⭐ 7,992 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18 封装自 eslint
-* [**np**](https://github.com/sindresorhus/np) ⭐ 7,710 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-23 npm publish 辅助，自动 push、打 tag、升版本等
-* [**npm-check**](https://github.com/dylang/npm-check) ⭐ 6,636 | 🐛 232 | 🌐 JavaScript | 📅 2026-10-18 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖
+* [**husky**](https://github.com/typicode/husky) ⭐ 35,357 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19 添加 git hooks
+* [**eslint**](https://github.com/eslint/eslint) ⭐ 27,576 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-23 JS 风格约束
+* [**lint-staged**](https://github.com/okonet/lint-staged) ⭐ 14,740 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-26 eslint 提速，只 lint 提交的代码
+* [**serve**](https://github.com/zeit/serve) ⭐ 9,905 | 🐛 154 | 🌐 TypeScript | 📅 2026-06-30 本地静态服务器
+* [**@zeit/ncc**](https://github.com/zeit/ncc) ⭐ 9,841 | 🐛 223 | 🌐 JavaScript | 📅 2026-08-13 打包为 npm 包为一个文件
+* [**xo**](https://github.com/xojs/xo) ⭐ 7,993 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18 封装自 eslint
+* [**np**](https://github.com/sindresorhus/np) ⭐ 7,710 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-24 npm publish 辅助，自动 push、打 tag、升版本等
+* [**npm-check**](https://github.com/dylang/npm-check) ⭐ 6,636 | 🐛 234 | 🌐 JavaScript | 📅 2026-10-24 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖
 * [**cross-env**](https://github.com/kentcdodds/cross-env) ⚠️ Archived 跨平台的环境变量声明
-* [**yeoman-generator**](https://github.com/yeoman/generator) ⭐ 1,265 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-21 脚手架工具
+* [**yeoman-generator**](https://github.com/yeoman/generator) ⭐ 1,265 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24 脚手架工具
 * [**onchange**](https://github.com/Qard/onchange) ⭐ 826 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 监听文件变动然后做一些事
 * [**lerna-changelog**](https://github.com/lerna/lerna-changelog) ⭐ 801 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-23 为 lerna 项目自动生成 changelog
 * [**cpx**](https://github.com/mysticatea/cpx) ⭐ 526 | 🐛 35 | 🌐 JavaScript | 📅 2023-03-07 复制，支持 glob，并且可以 watch
@@ -399,12 +399,12 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## Mac
 
-* [**Motrix**](https://github.com/agalwood/Motrix) ⭐ 57,271 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-23 支持 HTTP、FTP、BT、磁力链、百度网盘的下载工具
-* [**more**](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,964 | 🐛 291 | 📅 2026-10-21 更多优秀的 mac app 介绍
-* [**IINA**](https://github.com/lhc70000/iina) ⭐ 46,873 | 🐛 1,975 | 🌐 Swift | 📅 2026-10-20 mac 平台感觉免费最好的播放器 强推
-* [**hidden**](https://github.com/dwarvesf/hidden) ⭐ 15,250 | 🐛 135 | 🌐 Swift | 📅 2026-10-22 是用来帮助你隐藏 macOS 菜单栏上那些不常用的应用图标
+* [**Motrix**](https://github.com/agalwood/Motrix) ⭐ 57,331 | 🐛 161 | 🌐 TypeScript | 📅 2026-10-24 支持 HTTP、FTP、BT、磁力链、百度网盘的下载工具
+* [**more**](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,983 | 🐛 302 | 📅 2026-10-21 更多优秀的 mac app 介绍
+* [**IINA**](https://github.com/lhc70000/iina) ⭐ 46,890 | 🐛 1,986 | 🌐 Swift | 📅 2026-10-20 mac 平台感觉免费最好的播放器 强推
+* [**hidden**](https://github.com/dwarvesf/hidden) ⭐ 15,259 | 🐛 135 | 🌐 Swift | 📅 2026-10-22 是用来帮助你隐藏 macOS 菜单栏上那些不常用的应用图标
 * [**Dozer**](https://github.com/Mortennn/Dozer) ⭐ 8,719 | 🐛 102 | 🌐 Swift | 📅 2023-11-30 一个开源的顶栏管理
-* [**Gifski**](https://github.com/sindresorhus/gifski-app) ⭐ 8,584 | 🐛 8 | 🌐 Swift | 📅 2026-09-11 视频转 gif 工具
+* [**Gifski**](https://github.com/sindresorhus/gifski-app) ⭐ 8,585 | 🐛 8 | 🌐 Swift | 📅 2026-09-11 视频转 gif 工具
 * [**Beaker Browser**](https://github.com/beakerbrowser/beaker) ⚠️ Archived P2P 开源浏览器 支持点对点发布文件，成为了文件传输工具，支持 DAT 对等协议
 * [**Tickeys**](https://github.com/yingDev/Tickeys) ⭐ 1,550 | 🐛 51 | 🌐 Rust | 📅 2023-04-23 让你用 Mac 键盘也能打出机械键盘的感觉
 * [**get-plain-text**](https://itunes.apple.com/cn/app/get-plain-text/) 能清除剪贴板里的格式 很实用
@@ -425,11 +425,11 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 * [**licecap**](https://www.cockos.com/licecap/) gif 录制，简洁好用，之前都用这个录制
 * [**kap**](https://getkap.co/) 现在都用这个录制 gif，还支持导出 mp4，录制的 fps 很高
-* [**KeyCastr**](https://github.com/keycastr/keycastr) ⭐ 15,168 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07 按键显示，录制的时候显示你的按键
+* [**KeyCastr**](https://github.com/keycastr/keycastr) ⭐ 15,171 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07 按键显示，录制的时候显示你的按键
 
 ## Chrome 拓展
 
-* [**refined-github**](https://github.com/sindresorhus/refined-github) ⭐ 32,373 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-23 优化 github 默认功能和样式的 chrome 插件
+* [**refined-github**](https://github.com/sindresorhus/refined-github) ⭐ 32,374 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-24 优化 github 默认功能和样式的 chrome 插件
 * [**visbug**](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived 它可以帮助你改变 css，移动元素等等一系类强大的功能,页面调试神器。当然有些时候还是 DevTools 更好用
 * [**npmhub**](https://github.com/npmhub/npmhub) ⭐ 838 | 🐛 6 | 🌐 Svelte | 📅 2024-08-13在 README 下方显示 npm 依赖信息
 * [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 油猴 神器
@@ -450,7 +450,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## VS Code
 
-* [**vscode-leetcode**](https://github.com/jdneo/vscode-leetcode) ⭐ 8,497 | 🐛 377 | 🌐 TypeScript | 📅 2024-09-13 一个能让你在 vscode 中刷 LeetCode 的插件 算一个划水神器吧
+* [**vscode-leetcode**](https://github.com/jdneo/vscode-leetcode) ⭐ 8,496 | 🐛 377 | 🌐 TypeScript | 📅 2024-09-13 一个能让你在 vscode 中刷 LeetCode 的插件 算一个划水神器吧
 * [**polacode**](https://github.com/octref/polacode) ⭐ 6,831 | 🐛 83 | 🌐 JavaScript | 📅 2022-08-24 生产代码图片快照插件
 * [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 查看你引入的依赖模块大小
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动补全 html 标签，如输入`<a>`将自动补全`</a>`
@@ -465,28 +465,28 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ### 字体
 
-* [**FiraCode**](https://github.com/tonsky/firacode) ⭐ 82,126 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28
+* [**FiraCode**](https://github.com/tonsky/firacode) ⭐ 82,132 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28
 * [**Dank Mono**](https://dank.sh/)
 * [**Operator Mono**](https://www.typography.com/blog/introducing-operator)
 
 ## 编辑器和 Terminal
 
-* Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,141 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 的组合，主题是 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) ⭐ 190,141 | 🐛 289 | 🌐 Shell | 📅 2026-10-21
+* Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,138 | 🐛 291 | 🌐 Shell | 📅 2026-10-24 的组合，主题是 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) ⭐ 190,138 | 🐛 291 | 🌐 Shell | 📅 2026-10-24
 * [**Go2shell**](https://zipzapmac.com/Go2Shell) 在当前文件夹打开 shell
 
 ### zsh 插件
 
-* [**autojump**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/autojump) ⭐ 190,141 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 实现目录间快速跳转，想去哪个目录直接 j + 目录名，不用在频繁的 cd 了
-* [**history**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history) ⭐ 190,141 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 命令行记录
-* [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,149 | 🐛 203 | 🌐 Shell | 📅 2025-06-24 命令自动建议和补全
-* [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,050 | 🐛 215 | 🌐 Shell | 📅 2026-10-09 命令行语法高亮
+* [**autojump**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/autojump) ⭐ 190,138 | 🐛 291 | 🌐 Shell | 📅 2026-10-24 实现目录间快速跳转，想去哪个目录直接 j + 目录名，不用在频繁的 cd 了
+* [**history**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history) ⭐ 190,138 | 🐛 291 | 🌐 Shell | 📅 2026-10-24 命令行记录
+* [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,152 | 🐛 203 | 🌐 Shell | 📅 2025-06-24 命令自动建议和补全
+* [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,049 | 🐛 215 | 🌐 Shell | 📅 2026-10-09 命令行语法高亮
 * [**zsh-git-prompt**](https://github.com/olivierverdier/zsh-git-prompt) ⭐ 1,777 | 🐛 58 | 🌐 Haskell | 📅 2023-11-08 git 分支信息提示
 * [**Homebrew**](https://brew.sh/index_zh-cn) 必装
 
 ## 开发常用软件
 
-* [**Github Desktop**](https://github.com/desktop/desktop) ⭐ 21,994 | 🐛 1,069 | 🌐 TypeScript | 📅 2026-10-23管理 github 仓库的变更和 PR
-* [**KeepingYouAwake**](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,003 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15 可保证系统不自动休眠，挂机跑脚本很有用
+* [**Github Desktop**](https://github.com/desktop/desktop) ⭐ 22,004 | 🐛 1,070 | 🌐 TypeScript | 📅 2026-10-24管理 github 仓库的变更和 PR
+* [**KeepingYouAwake**](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,006 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15 可保证系统不自动休眠，挂机跑脚本很有用
 * [**runjs**](https://runjs.dev/) js 运行沙盒，写 test case 或者面试当场写代码的时候很有用
 * [**Charles**](https://www.charlesproxy.com/) 抓包用，支持 https
 * [**Google Chrome**](https://www.google.com/chrome/) 前端必备没啥好说的
@@ -496,12 +496,12 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 有趣
 
-* [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) ⭐ 555,627 | 🐛 680 | 🌐 Markdown | 📅 2026-07-14 教你用各种语言实现 Bot Database Neural Network
-* [\*\*javascript-algorithms \*\*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,690 | 🐛 423 | 🌐 JavaScript | 📅 2026-07-26 教你用前端知识认识各种算法
-* [**app-ideas**](https://github.com/florinpop17/app-ideas) ⭐ 98,300 | 🐛 603 | 📅 2025-10-11 很多年轻人苦于缺少练手的项目，这个项目收集了不少点子，每个点子都有明确的目标和复杂资源。
-* [**WebGL-Fluid-Simulation**](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,756 | 🐛 74 | 🌐 JavaScript | 📅 2024-11-12 很酷的 WebGL 交互
+* [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) ⭐ 555,882 | 🐛 681 | 🌐 Markdown | 📅 2026-07-14 教你用各种语言实现 Bot Database Neural Network
+* [\*\*javascript-algorithms \*\*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,695 | 🐛 434 | 🌐 JavaScript | 📅 2026-07-26 教你用前端知识认识各种算法
+* [**app-ideas**](https://github.com/florinpop17/app-ideas) ⭐ 98,309 | 🐛 603 | 📅 2025-10-11 很多年轻人苦于缺少练手的项目，这个项目收集了不少点子，每个点子都有明确的目标和复杂资源。
+* [**WebGL-Fluid-Simulation**](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,760 | 🐛 74 | 🌐 JavaScript | 📅 2024-11-12 很酷的 WebGL 交互
 * [**not-paid**](https://github.com/kleampa/not-paid) ⭐ 15,699 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-08 如果你给人做网站，交过去以后对方没有付款，那么这个 JS 会把网站的透明度一天调低一点，直到看不见
-* [**nsfwjs**](https://github.com/infinitered/nsfwjs) ⭐ 9,014 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-04 前端图片鉴黄，基于 Tensorflow
+* [**nsfwjs**](https://github.com/infinitered/nsfwjs) ⭐ 9,012 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-04 前端图片鉴黄，基于 Tensorflow
 * [**elevator.js**](https://github.com/tholman/elevator.js) ⭐ 6,635 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 我很喜欢的一个库，让一个 back-to-top 的效果有了一种坐复古电梯的感觉
 * [**the-bread-code**](https://github.com/hendricius/the-bread-code) ⭐ 4,143 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
   来比较那种做法更好。
@@ -524,7 +524,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## Github
 
-* [**probot**](https://github.com/probot/probot) ⭐ 9,628 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-23 基于 github 做一个小机器人。可以做很多 workflow 的事情
+* [**probot**](https://github.com/probot/probot) ⭐ 9,627 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-23 基于 github 做一个小机器人。可以做很多 workflow 的事情
 * [**github 短域名服务**](https://git.io)
 * [**shields**](https://shields.io/) Github README 里面的装逼小图标
 * [**Emoji**](https://www.webpagefx.com/tools/emoji-cheat-sheet/) 方便平时写查找 emoji
@@ -536,10 +536,10 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 开发
 
-* [**gitmoji**](https://github.com/carloscuesta/gitmoji) ⭐ 16,803 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-22 通过 emoji 表达 git 的操作内容
+* [**gitmoji**](https://github.com/carloscuesta/gitmoji) ⭐ 16,804 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-22 通过 emoji 表达 git 的操作内容
 * [**codesandbox-client**](https://github.com/CompuIves/codesandbox-client) ⭐ 13,653 | 🐛 614 | 🌐 JavaScript | 📅 2026-10-22 - 在线 web 开发容器
 * [**astexplorer**](https://github.com/fkling/astexplorer) ⭐ 6,544 | 🐛 155 | 🌐 JavaScript | 📅 2024-04-26 - 一个在线 ast 生成器
-* [**狼叔：如何正确的学习 Node.js**](https://github.com/i5ting/How-to-learn-node-correctly) ⭐ 4,524 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-06
+* [**狼叔：如何正确的学习 Node.js**](https://github.com/i5ting/How-to-learn-node-correctly) ⭐ 4,523 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-06
 * [cwim](https://github.com/spencerwooo/cwim) ⚠️ Archived Count Words Inside a Markdown file 统计字数和预期阅读时间
 * [**产品/设计师/独立开发者的资源库**](https://maliquankai.com/designnav/) 很全很强大
 * [**can i use**](https://caniuse.com/) 前端常用网站了 查看不同属性和方法的兼容性
@@ -597,9 +597,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 设计
 
-* [**feather**](https://github.com/feathericons/feather) ⭐ 26,019 | 🐛 506 | 🌐 JavaScript | 📅 2025-03-11 免费的 icons
-* [\*\*nord \*\*](https://github.com/arcticicestudio/nord) ⭐ 6,897 | 🐛 84 | 🌐 SCSS | 📅 2023-10-18 北欧性冷淡风主题配色
-* [**Ikonate**](https://github.com/mikolajdobrucki/ikonate) ⭐ 3,584 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 提供免费的图标 icons
+* [**feather**](https://github.com/feathericons/feather) ⭐ 26,020 | 🐛 506 | 🌐 JavaScript | 📅 2025-03-11 免费的 icons
+* [\*\*nord \*\*](https://github.com/arcticicestudio/nord) ⭐ 6,899 | 🐛 84 | 🌐 SCSS | 📅 2023-10-18 北欧性冷淡风主题配色
+* [**Ikonate**](https://github.com/mikolajdobrucki/ikonate) ⭐ 3,585 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 提供免费的图标 icons
 * [**uimovement**](https://uimovement.com/) 能从这个网站找到不少动画交互的灵感
 * [**awwwards**](https://www.awwwards.com/)是一个一个专门为设计精美的网站以及富有创意的网站颁奖的网站
 * [**dribbble**](https://dribbble.com/) 经常能在上面找到很多有创意好看的 gif 或者图片，基本上我所有的图都是上面招的
@@ -651,7 +651,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 教程
 
-* [**vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects) ⭐ 16,104 | 🐛 27 | 🌐 JavaScript | 📅 2024-03-28 通过纯前端的手段实现一些小项目，适合入门
+* [**vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects) ⭐ 16,103 | 🐛 27 | 🌐 JavaScript | 📅 2024-03-28 通过纯前端的手段实现一些小项目，适合入门
 * [**html-dom**](https://github.com/phuoc-ng/html-dom) ⭐ 6,511 | 🐛 43 | 🌐 MDX | 📅 2024-06-06 一些常用的 dom 或者原生 js 操作判断，挺实用的
 * [**Node.js CLI Apps Best Practices**](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,139 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08 叫你如何写好一个 node cli 工具
 * [**mobile-web-best-practice**](https://github.com/mcuking/mobile-web-best-practice) ⭐ 1,738 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-09 移动 web 最佳实践
@@ -703,7 +703,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ## 算法
 
-* [**leetcode**](https://github.com/azl397985856/leetcode) ⭐ 55,721 | 🐛 13 | 🌐 JavaScript | 📅 2025-07-16 用 js 刷 leetcode
+* [**leetcode**](https://github.com/azl397985856/leetcode) ⭐ 55,722 | 🐛 13 | 🌐 JavaScript | 📅 2025-07-16 用 js 刷 leetcode
 
 ## Typescript
 
@@ -712,4 +712,4 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
